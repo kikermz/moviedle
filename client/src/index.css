@@ -1,0 +1,149 @@
+
+:root {
+  font-family: Inter, system-ui, sans-serif;
+  color: #f5f5f7;
+  background: #101116;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  min-width: 320px;
+  min-height: 100vh;
+}
+
+button, input {
+  font: inherit;
+}
+
+.game {
+  width: min(760px, 100%);
+  margin: auto;
+  padding: 40px 20px;
+}
+
+.header {
+  text-align: center;
+  margin-bottom: 32px;
+}
+
+.header h1 {
+  font-size: clamp(2rem, 7vw, 3rem);
+  letter-spacing: 0.12em;
+}
+
+.header p, .hint {
+  color: #a1a1ae;
+}
+
+.game-panel {
+  background: #191a22;
+  border: 1px solid #30313c;
+  border-radius: 18px;
+  padding: 26px;
+}
+
+.status {
+  display: flex;
+  justify-content: space-between;
+  gap: 12px;
+  font-size: 0.8rem;
+  color: #b8b8c6;
+  margin-bottom: 28px;
+}
+
+.status span:first-child {
+  color: #71dfad;
+  font-weight: bold;
+}
+
+.guess-form {
+  display: flex;
+  gap: 10px;
+  margin: 24px 0;
+}
+
+.guess-form input {
+  flex: 1;
+  min-width: 0;
+  padding: 13px;
+  color: white;
+  background: #101116;
+  border: 1px solid #414250;
+  border-radius: 9px;
+}
+
+.guess-form button {
+  padding: 0 20px;
+  background: #71dfad;
+  color: #102019;
+  font-weight: bold;
+  border: none;
+  border-radius: 9px;
+  cursor: pointer;
+}
+
+.legend {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 15px;
+  padding-bottom: 20px;
+  border-bottom: 1px solid #30313c;
+  color: #b8b8c6;
+  font-size: 0.8rem;
+}
+
+.legend div {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+}
+
+.dot {
+  width: 10px;
+  height: 10px;
+  border-radius: 3px;
+}
+
+.green { background: #48bd83; }
+.yellow { background: #e5bd54; }
+.gray { background: #686a78; }
+
+.guesses {
+  padding-top: 12px;
+}
+
+.empty-state {
+  text-align: center;
+  color: #9293a1;
+  padding: 24px 0;
+}
+
+.guess-row {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  padding: 14px 0;
+  border-bottom: 1px solid #30313c;
+}
+
+.pending {
+  margin-left: auto;
+  color: #9293a1;
+  font-size: 0.75rem;
+}
+
+footer {
+  text-align: center;
+  color: #777987;
+  font-size: 0.8rem;
+  padding: 25px;
+}
+
+@media (max-width: 480px) {
+  .game-panel { padding: 18px 14px; }
+  .guess-row { flex-wrap: wrap; }
+}
