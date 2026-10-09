@@ -1,0 +1,5475 @@
+[
+  {
+    "id": 11,
+    "cast": [
+      "Mark Hamill",
+      "Harrison Ford",
+      "Carrie Fisher",
+      "Peter Cushing",
+      "Alec Guinness"
+    ],
+    "director": "George Lucas"
+  },
+  {
+    "id": 603,
+    "cast": [
+      "Keanu Reeves",
+      "Laurence Fishburne",
+      "Carrie-Anne Moss",
+      "Hugo Weaving",
+      "Gloria Foster"
+    ],
+    "director": "Lana Wachowski"
+  },
+  {
+    "id": 24428,
+    "cast": [
+      "Robert Downey Jr.",
+      "Chris Evans",
+      "Mark Ruffalo",
+      "Chris Hemsworth",
+      "Scarlett Johansson"
+    ],
+    "director": "Joss Whedon"
+  },
+  {
+    "id": 969681,
+    "cast": [
+      "Tom Holland",
+      "Sadie Sink",
+      "Tramell Tillman",
+      "Zendaya",
+      "Jacob Batalon"
+    ],
+    "director": "Destin Daniel Cretton"
+  },
+  {
+    "id": 862,
+    "cast": [
+      "Tom Hanks",
+      "Tim Allen",
+      "Don Rickles",
+      "Jim Varney",
+      "Wallace Shawn"
+    ],
+    "director": "John Lasseter"
+  },
+  {
+    "id": 157336,
+    "cast": [
+      "Matthew McConaughey",
+      "Anne Hathaway",
+      "Michael Caine",
+      "Jessica Chastain",
+      "Casey Affleck"
+    ],
+    "director": "Christopher Nolan"
+  },
+  {
+    "id": 1423191,
+    "cast": [
+      "Austin Abrams",
+      "Paul Walter Hauser",
+      "Kali Reis",
+      "Zach Cherry",
+      "Johnno Wilson"
+    ],
+    "director": "Zach Cregger"
+  },
+  {
+    "id": 10882,
+    "cast": [
+      "Mary Costa",
+      "Bill Shirley",
+      "Eleanor Audley",
+      "Verna Felton",
+      "Barbara Luddy"
+    ],
+    "director": "Clyde Geronimi"
+  },
+  {
+    "id": 9479,
+    "cast": [
+      "Danny Elfman",
+      "Chris Sarandon",
+      "Catherine O'Hara",
+      "William Hickey",
+      "Glenn Shadix"
+    ],
+    "director": "Henry Selick"
+  },
+  {
+    "id": 1084244,
+    "cast": [
+      "Joan Cusack",
+      "Tom Hanks",
+      "Tim Allen",
+      "Conan O'Brien",
+      "Scarlett Spears"
+    ],
+    "director": "Andrew Stanton"
+  },
+  {
+    "id": 252,
+    "cast": [
+      "Peter Ostrum",
+      "Gene Wilder",
+      "Jack Albertson",
+      "Diana Sowle",
+      "Roy Kinnear"
+    ],
+    "director": "Mel Stuart"
+  },
+  {
+    "id": 680,
+    "cast": [
+      "John Travolta",
+      "Samuel L. Jackson",
+      "Uma Thurman",
+      "Bruce Willis",
+      "Ving Rhames"
+    ],
+    "director": "Quentin Tarantino"
+  },
+  {
+    "id": 20352,
+    "cast": [
+      "Steve Carell",
+      "Jason Segel",
+      "Russell Brand",
+      "Julie Andrews",
+      "Will Arnett"
+    ],
+    "director": "Chris Renaud"
+  },
+  {
+    "id": 1377237,
+    "cast": [
+      "Alan Ritchson",
+      "Owen Wilson",
+      "Rodrigo Santoro",
+      "Leila George",
+      "Kate Box"
+    ],
+    "director": "Scott Waugh"
+  },
+  {
+    "id": 238,
+    "cast": [
+      "Marlon Brando",
+      "Al Pacino",
+      "James Caan",
+      "Robert Duvall",
+      "Richard S. Castellano"
+    ],
+    "director": "Francis Ford Coppola"
+  },
+  {
+    "id": 1492640,
+    "cast": [
+      "Russell Crowe",
+      "Jacob Tremblay",
+      "Shailene Woodley",
+      "Annabelle Wallis",
+      "Alexander Ludwig"
+    ],
+    "director": "Janus Metz"
+  },
+  {
+    "id": 803,
+    "cast": [
+      "Michel Bouquet",
+      "Reinhard Heydrich",
+      "Heinrich Himmler",
+      "Adolf Hitler",
+      "Julius Streicher"
+    ],
+    "director": "Alain Resnais"
+  },
+  {
+    "id": 24128,
+    "cast": [
+      "David Byrne",
+      "Chris Frantz",
+      "Jerry Harrison",
+      "Tina Weymouth",
+      "Ednah Holt"
+    ],
+    "director": "Jonathan Demme"
+  },
+  {
+    "id": 899082,
+    "cast": [
+      "Daniel Radcliffe",
+      "Rupert Grint",
+      "Emma Watson",
+      "Bonnie Wright",
+      "Matthew Lewis"
+    ],
+    "director": "Joe Pearlman"
+  },
+  {
+    "id": 630,
+    "cast": [
+      "Judy Garland",
+      "Ray Bolger",
+      "Jack Haley",
+      "Bert Lahr",
+      "Frank Morgan"
+    ],
+    "director": "Victor Fleming"
+  },
+  {
+    "id": 1204680,
+    "cast": [
+      "Will Forte",
+      "Lana Condor",
+      "John Cena",
+      "Tone Bell",
+      "Martha Kelly"
+    ],
+    "director": "Dave Green"
+  },
+  {
+    "id": 1368337,
+    "cast": [
+      "Matt Damon",
+      "Tom Holland",
+      "Anne Hathaway",
+      "Robert Pattinson",
+      "Himesh Patel"
+    ],
+    "director": "Christopher Nolan"
+  },
+  {
+    "id": 947,
+    "cast": [
+      "Peter O'Toole",
+      "Alec Guinness",
+      "Omar Sharif",
+      "Anthony Quinn",
+      "Jack Hawkins"
+    ],
+    "director": "David Lean"
+  },
+  {
+    "id": 424,
+    "cast": [
+      "Liam Neeson",
+      "Ben Kingsley",
+      "Ralph Fiennes",
+      "Caroline Goodall",
+      "Jonathan Sagall"
+    ],
+    "director": "Steven Spielberg"
+  },
+  {
+    "id": 205596,
+    "cast": [
+      "Benedict Cumberbatch",
+      "Keira Knightley",
+      "Matthew Goode",
+      "Rory Kinnear",
+      "Allen Leech"
+    ],
+    "director": "Morten Tyldum"
+  },
+  {
+    "id": 872585,
+    "cast": [
+      "Cillian Murphy",
+      "Emily Blunt",
+      "Matt Damon",
+      "Robert Downey Jr.",
+      "Florence Pugh"
+    ],
+    "director": "Christopher Nolan"
+  },
+  {
+    "id": 348,
+    "cast": [
+      "Tom Skerritt",
+      "Sigourney Weaver",
+      "Veronica Cartwright",
+      "Harry Dean Stanton",
+      "John Hurt"
+    ],
+    "director": "Ridley Scott"
+  },
+  {
+    "id": 14836,
+    "cast": [
+      "Dakota Fanning",
+      "Teri Hatcher",
+      "Jennifer Saunders",
+      "Dawn French",
+      "Keith David"
+    ],
+    "director": "Henry Selick"
+  },
+  {
+    "id": 15121,
+    "cast": [
+      "Julie Andrews",
+      "Christopher Plummer",
+      "Eleanor Parker",
+      "Charmian Carr",
+      "Nicholas Hammond"
+    ],
+    "director": "Robert Wise"
+  },
+  {
+    "id": 88,
+    "cast": [
+      "Jennifer Grey",
+      "Patrick Swayze",
+      "Jerry Orbach",
+      "Cynthia Rhodes",
+      "Jack Weston"
+    ],
+    "director": "Emile Ardolino"
+  },
+  {
+    "id": 244786,
+    "cast": [
+      "Miles Teller",
+      "J.K. Simmons",
+      "Paul Reiser",
+      "Melissa Benoist",
+      "Austin Stowell"
+    ],
+    "director": "Damien Chazelle"
+  },
+  {
+    "id": 936075,
+    "cast": [
+      "Jaafar Jackson",
+      "Colman Domingo",
+      "Nia Long",
+      "Juliano Krue Valdi",
+      "KeiLyn Durrel Jones"
+    ],
+    "director": "Antoine Fuqua"
+  },
+  {
+    "id": 62,
+    "cast": [
+      "Keir Dullea",
+      "Gary Lockwood",
+      "William Sylvester",
+      "Douglas Rain",
+      "Daniel Richter"
+    ],
+    "director": "Stanley Kubrick"
+  },
+  {
+    "id": 345,
+    "cast": [
+      "Tom Cruise",
+      "Nicole Kidman",
+      "Sydney Pollack",
+      "Marie Richardson",
+      "Rade Šerbedžija"
+    ],
+    "director": "Stanley Kubrick"
+  },
+  {
+    "id": 204922,
+    "cast": [
+      "Nicole Kidman",
+      "Colin Firth",
+      "Mark Strong",
+      "Ben Crompton",
+      "Anne-Marie Duff"
+    ],
+    "director": "Rowan Joffé"
+  },
+  {
+    "id": 1101383,
+    "cast": [
+      "Anne Hathaway",
+      "Ewan McGregor",
+      "Maisy Stella",
+      "Christian Convery",
+      "Jordan Alexa Davis"
+    ],
+    "director": "David Robert Mitchell"
+  },
+  {
+    "id": 13,
+    "cast": [
+      "Tom Hanks",
+      "Robin Wright",
+      "Gary Sinise",
+      "Sally Field",
+      "Mykelti Williamson"
+    ],
+    "director": "Robert Zemeckis"
+  },
+  {
+    "id": 3933,
+    "cast": [
+      "Johnny Depp",
+      "Helena Bonham Carter",
+      "Emily Watson",
+      "Tracey Ullman",
+      "Paul Whitehouse"
+    ],
+    "director": "Mike Johnson"
+  },
+  {
+    "id": 1032863,
+    "cast": [
+      "Lili Reinhart",
+      "Tom Bateman",
+      "Rachel Marsh",
+      "Jaboukie Young-White",
+      "Nicholas Duvernay"
+    ],
+    "director": "Claire Scanlon"
+  },
+  {
+    "id": 948,
+    "cast": [
+      "Donald Pleasence",
+      "Jamie Lee Curtis",
+      "Nancy Kyes",
+      "P. J. Soles",
+      "Charles Cyphers"
+    ],
+    "director": "John Carpenter"
+  },
+  {
+    "id": 218,
+    "cast": [
+      "Arnold Schwarzenegger",
+      "Michael Biehn",
+      "Linda Hamilton",
+      "Paul Winfield",
+      "Lance Henriksen"
+    ],
+    "director": "James Cameron"
+  },
+  {
+    "id": 1291595,
+    "cast": [
+      "Amelia Eve",
+      "Island Austin",
+      "Brandon Perea",
+      "Lin Shaye",
+      "Maisie Richardson-Sellers"
+    ],
+    "director": "Jacob Chase"
+  },
+  {
+    "id": 28,
+    "cast": [
+      "Martin Sheen",
+      "Marlon Brando",
+      "Frederic Forrest",
+      "Albert Hall",
+      "Laurence Fishburne"
+    ],
+    "director": "Francis Ford Coppola"
+  },
+  {
+    "id": 429,
+    "cast": [
+      "Clint Eastwood",
+      "Eli Wallach",
+      "Lee Van Cleef",
+      "Aldo Giuffrè",
+      "Luigi Pistilli"
+    ],
+    "director": "Sergio Leone"
+  },
+  {
+    "id": 68718,
+    "cast": [
+      "Jamie Foxx",
+      "Christoph Waltz",
+      "Leonardo DiCaprio",
+      "Kerry Washington",
+      "Samuel L. Jackson"
+    ],
+    "director": "Quentin Tarantino"
+  },
+  {
+    "id": 346,
+    "cast": [
+      "Toshirō Mifune",
+      "Takashi Shimura",
+      "Yoshio Inaba",
+      "Seiji Miyaguchi",
+      "Minoru Chiaki"
+    ],
+    "director": "Akira Kurosawa"
+  },
+  {
+    "id": 155,
+    "cast": [
+      "Christian Bale",
+      "Heath Ledger",
+      "Aaron Eckhart",
+      "Michael Caine",
+      "Maggie Gyllenhaal"
+    ],
+    "director": "Christopher Nolan"
+  },
+  {
+    "id": 10112,
+    "cast": [
+      "Phil Harris",
+      "Eva Gabor",
+      "Sterling Holloway",
+      "Scatman Crothers",
+      "Paul Winchell"
+    ],
+    "director": "Wolfgang Reitherman"
+  },
+  {
+    "id": 863,
+    "cast": [
+      "Tom Hanks",
+      "Tim Allen",
+      "Joan Cusack",
+      "Kelsey Grammer",
+      "Don Rickles"
+    ],
+    "director": "John Lasseter"
+  },
+  {
+    "id": 1084242,
+    "cast": [
+      "Ginnifer Goodwin",
+      "Jason Bateman",
+      "Ke Huy Quan",
+      "Fortune Feimster",
+      "Andy Samberg"
+    ],
+    "director": "Jared Bush"
+  },
+  {
+    "id": 350,
+    "cast": [
+      "Meryl Streep",
+      "Anne Hathaway",
+      "Emily Blunt",
+      "Stanley Tucci",
+      "Simon Baker"
+    ],
+    "director": "David Frankel"
+  },
+  {
+    "id": 240,
+    "cast": [
+      "Al Pacino",
+      "Robert Duvall",
+      "Diane Keaton",
+      "Robert De Niro",
+      "John Cazale"
+    ],
+    "director": "Francis Ford Coppola"
+  },
+  {
+    "id": 278,
+    "cast": [
+      "Tim Robbins",
+      "Morgan Freeman",
+      "Bob Gunton",
+      "William Sadler",
+      "Clancy Brown"
+    ],
+    "director": "Frank Darabont"
+  },
+  {
+    "id": 669,
+    "cast": [
+      "Allakariallak",
+      "Alice Nevalinga",
+      "Cunayou",
+      "Allegoo",
+      "Allee"
+    ],
+    "director": "Robert Flaherty"
+  },
+  {
+    "id": 9012,
+    "cast": [
+      "Johnny Knoxville",
+      "Bam Margera",
+      "Steve-O",
+      "Chris Pontius",
+      "Ryan Dunn"
+    ],
+    "director": "Jeff Tremaine"
+  },
+  {
+    "id": 1022256,
+    "cast": [
+      "Selena Gomez",
+      "Raquelle Stevens",
+      "Ashley Cook",
+      "Liana Blackburn",
+      "Brent L. Boxberger"
+    ],
+    "director": "Alek Keshishian"
+  },
+  {
+    "id": 497,
+    "cast": [
+      "Tom Hanks",
+      "David Morse",
+      "Bonnie Hunt",
+      "Michael Clarke Duncan",
+      "James Cromwell"
+    ],
+    "director": "Frank Darabont"
+  },
+  {
+    "id": 671,
+    "cast": [
+      "Daniel Radcliffe",
+      "Rupert Grint",
+      "Emma Watson",
+      "Richard Harris",
+      "Tom Felton"
+    ],
+    "director": "Chris Columbus"
+  },
+  {
+    "id": 1108427,
+    "cast": [
+      "Catherine Lagaʻaia",
+      "Dwayne Johnson",
+      "Rena Owen",
+      "John Tui",
+      "Frankie Adams"
+    ],
+    "director": "Thomas Kail"
+  },
+  {
+    "id": 6844,
+    "cast": [
+      "Charlton Heston",
+      "Yul Brynner",
+      "Anne Baxter",
+      "Edward G. Robinson",
+      "Yvonne De Carlo"
+    ],
+    "director": "Cecil B. DeMille"
+  },
+  {
+    "id": 857,
+    "cast": [
+      "Tom Hanks",
+      "Tom Sizemore",
+      "Edward Burns",
+      "Barry Pepper",
+      "Adam Goldberg"
+    ],
+    "director": "Steven Spielberg"
+  },
+  {
+    "id": 1495,
+    "cast": [
+      "Orlando Bloom",
+      "Eva Green",
+      "Jeremy Irons",
+      "David Thewlis",
+      "Ghassan Massoud"
+    ],
+    "director": "Ridley Scott"
+  },
+  {
+    "id": 9552,
+    "cast": [
+      "Ellen Burstyn",
+      "Linda Blair",
+      "Jason Miller",
+      "Max von Sydow",
+      "Lee J. Cobb"
+    ],
+    "director": "William Friedkin"
+  },
+  {
+    "id": 694,
+    "cast": [
+      "Jack Nicholson",
+      "Shelley Duvall",
+      "Danny Lloyd",
+      "Scatman Crothers",
+      "Barry Nelson"
+    ],
+    "director": "Stanley Kubrick"
+  },
+  {
+    "id": 138843,
+    "cast": [
+      "Vera Farmiga",
+      "Patrick Wilson",
+      "Lili Taylor",
+      "Ron Livingston",
+      "Hayley McFarland"
+    ],
+    "director": "James Wan"
+  },
+  {
+    "id": 11113,
+    "cast": [
+      "Audrey Hepburn",
+      "Rex Harrison",
+      "Stanley Holloway",
+      "Wilfrid Hyde-White",
+      "Gladys Cooper"
+    ],
+    "director": "George Cukor"
+  },
+  {
+    "id": 354912,
+    "cast": [
+      "Anthony Gonzalez",
+      "Gael García Bernal",
+      "Benjamin Bratt",
+      "Alanna Ubach",
+      "Renée Victor"
+    ],
+    "director": "Lee Unkrich"
+  },
+  {
+    "id": 539,
+    "cast": [
+      "Anthony Perkins",
+      "Janet Leigh",
+      "Vera Miles",
+      "John Gavin",
+      "Martin Balsam"
+    ],
+    "director": "Alfred Hitchcock"
+  },
+  {
+    "id": 807,
+    "cast": [
+      "Morgan Freeman",
+      "Brad Pitt",
+      "Gwyneth Paltrow",
+      "John Cassini",
+      "Peter Crombie"
+    ],
+    "director": "David Fincher"
+  },
+  {
+    "id": 210577,
+    "cast": [
+      "Ben Affleck",
+      "Rosamund Pike",
+      "Neil Patrick Harris",
+      "Tyler Perry",
+      "Carrie Coon"
+    ],
+    "director": "David Fincher"
+  },
+  {
+    "id": 770,
+    "cast": [
+      "Vivien Leigh",
+      "Clark Gable",
+      "Olivia de Havilland",
+      "Leslie Howard",
+      "Hattie McDaniel"
+    ],
+    "director": "Victor Fleming"
+  },
+  {
+    "id": 597,
+    "cast": [
+      "Leonardo DiCaprio",
+      "Kate Winslet",
+      "Billy Zane",
+      "Kathy Bates",
+      "Frances Fisher"
+    ],
+    "director": "James Cameron"
+  },
+  {
+    "id": 1010581,
+    "cast": [
+      "Nicole Wallace",
+      "Gabriel Guevara",
+      "Marta Hazas",
+      "Iván Sánchez",
+      "Eva Ruiz"
+    ],
+    "director": "Domingo González"
+  },
+  {
+    "id": 550,
+    "cast": [
+      "Edward Norton",
+      "Brad Pitt",
+      "Helena Bonham Carter",
+      "Meat Loaf",
+      "Jared Leto"
+    ],
+    "director": "David Fincher"
+  },
+  {
+    "id": 335,
+    "cast": [
+      "Claudia Cardinale",
+      "Henry Fonda",
+      "Jason Robards",
+      "Charles Bronson",
+      "Gabriele Ferzetti"
+    ],
+    "director": "Sergio Leone"
+  },
+  {
+    "id": 9461,
+    "cast": [
+      "Bruce Lee",
+      "John Saxon",
+      "Jim Kelly",
+      "Shih Kien",
+      "Ahna Capri"
+    ],
+    "director": "Robert Clouse"
+  },
+  {
+    "id": 280,
+    "cast": [
+      "Arnold Schwarzenegger",
+      "Linda Hamilton",
+      "Edward Furlong",
+      "Robert Patrick",
+      "Earl Boen"
+    ],
+    "director": "James Cameron"
+  },
+  {
+    "id": 27205,
+    "cast": [
+      "Leonardo DiCaprio",
+      "Joseph Gordon-Levitt",
+      "Ken Watanabe",
+      "Tom Hardy",
+      "Elliot Page"
+    ],
+    "director": "Christopher Nolan"
+  },
+  {
+    "id": 105,
+    "cast": [
+      "Michael J. Fox",
+      "Christopher Lloyd",
+      "Crispin Glover",
+      "Lea Thompson",
+      "Claudia Wells"
+    ],
+    "director": "Robert Zemeckis"
+  },
+  {
+    "id": 408,
+    "cast": [
+      "Adriana Caselotti",
+      "Lucille La Verne",
+      "Harry Stockwell",
+      "Roy Atwell",
+      "Pinto Colvig"
+    ],
+    "director": "David Hand"
+  },
+  {
+    "id": 8587,
+    "cast": [
+      "Matthew Broderick",
+      "Moira Kelly",
+      "Jeremy Irons",
+      "Nathan Lane",
+      "Ernie Sabella"
+    ],
+    "director": "Roger Allers"
+  },
+  {
+    "id": 1315772,
+    "cast": [
+      "Pierre Coffin",
+      "Trey Parker",
+      "Christoph Waltz",
+      "Allison Janney",
+      "Jesse Eisenberg"
+    ],
+    "director": "Pierre Coffin"
+  },
+  {
+    "id": 12230,
+    "cast": [
+      "Rod Taylor",
+      "J. Pat O'Malley",
+      "Betty Lou Gerson",
+      "Martha Wentworth",
+      "Ben Wright"
+    ],
+    "director": "Clyde Geronimi"
+  },
+  {
+    "id": 103,
+    "cast": [
+      "Robert De Niro",
+      "Jodie Foster",
+      "Cybill Shepherd",
+      "Harvey Keitel",
+      "Peter Boyle"
+    ],
+    "director": "Martin Scorsese"
+  },
+  {
+    "id": 26317,
+    "cast": [
+      "Mikhail Kaufman"
+    ],
+    "director": "Dziga Vertov"
+  },
+  {
+    "id": 14002,
+    "cast": [
+      "Patrick Disanto"
+    ],
+    "director": "Ron Fricke"
+  },
+  {
+    "id": 44639,
+    "cast": [
+      "Matt Damon",
+      "Bill Ackman",
+      "Jonathan Alpert",
+      "Christine Lagarde",
+      "Daniel Alpert"
+    ],
+    "director": "Charles Ferguson"
+  },
+  {
+    "id": 656663,
+    "cast": [
+      "Johnny Knoxville",
+      "Steve-O",
+      "Chris Pontius",
+      "Dave England",
+      "Jason 'Wee Man' Acuña"
+    ],
+    "director": "Jeff Tremaine"
+  },
+  {
+    "id": 389,
+    "cast": [
+      "Martin Balsam",
+      "John Fiedler",
+      "Lee J. Cobb",
+      "E.G. Marshall",
+      "Jack Klugman"
+    ],
+    "director": "Sidney Lumet"
+  },
+  {
+    "id": 489,
+    "cast": [
+      "Matt Damon",
+      "Robin Williams",
+      "Ben Affleck",
+      "Stellan Skarsgård",
+      "Minnie Driver"
+    ],
+    "director": "Gus Van Sant"
+  },
+  {
+    "id": 10439,
+    "cast": [
+      "Omri Katz",
+      "Thora Birch",
+      "Vinessa Shaw",
+      "Bette Midler",
+      "Sarah Jessica Parker"
+    ],
+    "director": "Kenny Ortega"
+  },
+  {
+    "id": 14537,
+    "cast": [
+      "Tatsuya Nakadai",
+      "Akira Ishihama",
+      "Shima Iwashita",
+      "Tetsuro Tamba",
+      "Masao Mishima"
+    ],
+    "director": "Masaki Kobayashi"
+  },
+  {
+    "id": 197,
+    "cast": [
+      "Mel Gibson",
+      "Catherine McCormack",
+      "Sophie Marceau",
+      "Patrick McGoohan",
+      "Angus Macfadyen"
+    ],
+    "director": "Mel Gibson"
+  },
+  {
+    "id": 1339713,
+    "cast": [
+      "Michael Johnston",
+      "Inde Navarrette",
+      "Cooper Tomlinson",
+      "Megan Lawless",
+      "Andy Richter"
+    ],
+    "director": "Curry Barker"
+  },
+  {
+    "id": 15947,
+    "cast": [
+      "Clarence Nash",
+      "Sterling Holloway",
+      "Joaquin Garay",
+      "Zé Carioca",
+      "Aurora Miranda"
+    ],
+    "director": "Norman Ferguson"
+  },
+  {
+    "id": 279,
+    "cast": [
+      "F. Murray Abraham",
+      "Tom Hulce",
+      "Elizabeth Berridge",
+      "Simon Callow",
+      "Roy Dotrice"
+    ],
+    "director": "Miloš Forman"
+  },
+  {
+    "id": 567,
+    "cast": [
+      "James Stewart",
+      "Grace Kelly",
+      "Wendell Corey",
+      "Thelma Ritter",
+      "Raymond Burr"
+    ],
+    "director": "Alfred Hitchcock"
+  },
+  {
+    "id": 11324,
+    "cast": [
+      "Leonardo DiCaprio",
+      "Mark Ruffalo",
+      "Ben Kingsley",
+      "Max von Sydow",
+      "Michelle Williams"
+    ],
+    "director": "Martin Scorsese"
+  },
+  {
+    "id": 11224,
+    "cast": [
+      "Ilene Woods",
+      "Eleanor Audley",
+      "Verna Felton",
+      "Claire Du Brey",
+      "Rhoda Williams"
+    ],
+    "director": "Clyde Geronimi"
+  },
+  {
+    "id": 10020,
+    "cast": [
+      "Paige O'Hara",
+      "Robby Benson",
+      "Richard White",
+      "Jerry Orbach",
+      "David Ogden Stiers"
+    ],
+    "director": "Gary Trousdale"
+  },
+  {
+    "id": 578,
+    "cast": [
+      "Roy Scheider",
+      "Robert Shaw",
+      "Richard Dreyfuss",
+      "Lorraine Gary",
+      "Murray Hamilton"
+    ],
+    "director": "Steven Spielberg"
+  },
+  {
+    "id": 49026,
+    "cast": [
+      "Christian Bale",
+      "Gary Oldman",
+      "Tom Hardy",
+      "Joseph Gordon-Levitt",
+      "Anne Hathaway"
+    ],
+    "director": "Christopher Nolan"
+  },
+  {
+    "id": 324786,
+    "cast": [
+      "Andrew Garfield",
+      "Sam Worthington",
+      "Vince Vaughn",
+      "Teresa Palmer",
+      "Luke Bracey"
+    ],
+    "director": "Mel Gibson"
+  },
+  {
+    "id": 938,
+    "cast": [
+      "Clint Eastwood",
+      "Lee Van Cleef",
+      "Gian Maria Volonté",
+      "Mara Krupp",
+      "Luigi Pistilli"
+    ],
+    "director": "Sergio Leone"
+  },
+  {
+    "id": 33,
+    "cast": [
+      "Clint Eastwood",
+      "Gene Hackman",
+      "Morgan Freeman",
+      "Jaimz Woolvett",
+      "Richard Harris"
+    ],
+    "director": "Clint Eastwood"
+  },
+  {
+    "id": 6977,
+    "cast": [
+      "Javier Bardem",
+      "Tommy Lee Jones",
+      "Josh Brolin",
+      "Woody Harrelson",
+      "Kelly Macdonald"
+    ],
+    "director": "Joel Coen"
+  },
+  {
+    "id": 657,
+    "cast": [
+      "Sean Connery",
+      "Daniela Bianchi",
+      "Pedro Armendáriz",
+      "Robert Shaw",
+      "Lotte Lenya"
+    ],
+    "director": "Terence Young"
+  },
+  {
+    "id": 120,
+    "cast": [
+      "Elijah Wood",
+      "Ian McKellen",
+      "Viggo Mortensen",
+      "Sean Astin",
+      "Ian Holm"
+    ],
+    "director": "Peter Jackson"
+  },
+  {
+    "id": 1288445,
+    "cast": [
+      "Jason Statham",
+      "Annabelle Wallis",
+      "Roland Møller",
+      "Ramon Tikaram",
+      "Arnas Fedaravičius"
+    ],
+    "director": "Jean-François Richet"
+  },
+  {
+    "id": 12092,
+    "cast": [
+      "Kathryn Beaumont",
+      "Ed Wynn",
+      "Richard Haydn",
+      "Sterling Holloway",
+      "Jerry Colonna"
+    ],
+    "director": "Clyde Geronimi"
+  },
+  {
+    "id": 980431,
+    "cast": [
+      "Eric Nam",
+      "Dave Bautista",
+      "Jessica Matten",
+      "Román Zaragoza",
+      "Steven Yeun"
+    ],
+    "director": "Lauren Montgomery"
+  },
+  {
+    "id": 804,
+    "cast": [
+      "Gregory Peck",
+      "Audrey Hepburn",
+      "Eddie Albert",
+      "Hartley Power",
+      "Harcourt Williams"
+    ],
+    "director": "William Wyler"
+  },
+  {
+    "id": 185,
+    "cast": [
+      "Malcolm McDowell",
+      "Patrick Magee",
+      "Carl Duering",
+      "Michael Bates",
+      "Warren Clarke"
+    ],
+    "director": "Stanley Kubrick"
+  },
+  {
+    "id": 1419406,
+    "cast": [
+      "Jackie Chan",
+      "Zhang Zifeng",
+      "Tony Leung Ka-fai",
+      "Ci Sha",
+      "Jun"
+    ],
+    "director": "Larry Yang"
+  },
+  {
+    "id": 5205,
+    "cast": [
+      "Arnold Schwarzenegger",
+      "Lou Ferrigno",
+      "Mike Katz",
+      "Serge Nubret",
+      "Franco Columbu"
+    ],
+    "director": "Robert Fiore"
+  },
+  {
+    "id": 16290,
+    "cast": [
+      "Johnny Knoxville",
+      "Bam Margera",
+      "Ryan Dunn",
+      "Steve-O",
+      "Chris Pontius"
+    ],
+    "director": "Jeff Tremaine"
+  },
+  {
+    "id": 83533,
+    "cast": [
+      "Sam Worthington",
+      "Zoe Saldaña",
+      "Sigourney Weaver",
+      "Stephen Lang",
+      "Oona Chaplin"
+    ],
+    "director": "James Cameron"
+  },
+  {
+    "id": 665,
+    "cast": [
+      "Charlton Heston",
+      "Stephen Boyd",
+      "Hugh Griffith",
+      "Jack Hawkins",
+      "Haya Harareet"
+    ],
+    "director": "William Wyler"
+  },
+  {
+    "id": 117,
+    "cast": [
+      "Kevin Costner",
+      "Sean Connery",
+      "Robert De Niro",
+      "Charles Martin Smith",
+      "Andy Garcia"
+    ],
+    "director": "Brian De Palma"
+  },
+  {
+    "id": 1091,
+    "cast": [
+      "Kurt Russell",
+      "Wilford Brimley",
+      "T.K. Carter",
+      "David Clennon",
+      "Keith David"
+    ],
+    "director": "John Carpenter"
+  },
+  {
+    "id": 72190,
+    "cast": [
+      "Brad Pitt",
+      "Mireille Enos",
+      "Daniella Kertesz",
+      "James Badge Dale",
+      "Ludi Boeken"
+    ],
+    "director": "Marc Forster"
+  },
+  {
+    "id": 1375646,
+    "cast": [
+      "Gianna Jun",
+      "Koo Kyo-hwan",
+      "Ji Chang-wook",
+      "Kim Shin-rock",
+      "Shin Hyun-been"
+    ],
+    "director": "Yeon Sang-ho"
+  },
+  {
+    "id": 27327,
+    "cast": [
+      "William Finley",
+      "Paul Williams",
+      "Jessica Harper",
+      "George Memmoli",
+      "Gerrit Graham"
+    ],
+    "director": "Brian De Palma"
+  },
+  {
+    "id": 2005,
+    "cast": [
+      "Whoopi Goldberg",
+      "Maggie Smith",
+      "Kathy Najimy",
+      "Wendy Makkena",
+      "Mary Wickes"
+    ],
+    "director": "Emile Ardolino"
+  },
+  {
+    "id": 114150,
+    "cast": [
+      "Anna Kendrick",
+      "Anna Camp",
+      "Brittany Snow",
+      "Skylar Astin",
+      "Rebel Wilson"
+    ],
+    "director": "Jason Moore"
+  },
+  {
+    "id": 803796,
+    "cast": [
+      "Arden Cho",
+      "May Hong",
+      "Ji-young Yoo",
+      "Ahn Hyo-seop",
+      "Yunjin Kim"
+    ],
+    "director": "Chris Appelhans"
+  },
+  {
+    "id": 15,
+    "cast": [
+      "Orson Welles",
+      "Joseph Cotten",
+      "Dorothy Comingore",
+      "Ray Collins",
+      "George Coulouris"
+    ],
+    "director": "Orson Welles"
+  },
+  {
+    "id": 1083381,
+    "cast": [
+      "Chiwetel Ejiofor",
+      "Renate Reinsve",
+      "Finn Bennett",
+      "Lukita Maxwell",
+      "Mark Duplass"
+    ],
+    "director": "Kane Parsons"
+  },
+  {
+    "id": 6435,
+    "cast": [
+      "Sandra Bullock",
+      "Nicole Kidman",
+      "Stockard Channing",
+      "Dianne Wiest",
+      "Goran Višnjić"
+    ],
+    "director": "Griffin Dunne"
+  },
+  {
+    "id": 8966,
+    "cast": [
+      "Kristen Stewart",
+      "Robert Pattinson",
+      "Billy Burke",
+      "Peter Facinelli",
+      "Ashley Greene"
+    ],
+    "director": "Catherine Hardwicke"
+  },
+  {
+    "id": 7340,
+    "cast": [
+      "Sissy Spacek",
+      "Piper Laurie",
+      "Amy Irving",
+      "William Katt",
+      "John Travolta"
+    ],
+    "director": "Brian De Palma"
+  },
+  {
+    "id": 5925,
+    "cast": [
+      "Steve McQueen",
+      "James Garner",
+      "Richard Attenborough",
+      "James Donald",
+      "Charles Bronson"
+    ],
+    "director": "John Sturges"
+  },
+  {
+    "id": 16869,
+    "cast": [
+      "Brad Pitt",
+      "Mélanie Laurent",
+      "Christoph Waltz",
+      "Eli Roth",
+      "Michael Fassbender"
+    ],
+    "director": "Quentin Tarantino"
+  },
+  {
+    "id": 391,
+    "cast": [
+      "Clint Eastwood",
+      "Marianne Koch",
+      "Gian Maria Volonté",
+      "Wolfgang Lukschy",
+      "Sieghardt Rupp"
+    ],
+    "director": "Sergio Leone"
+  },
+  {
+    "id": 581,
+    "cast": [
+      "Kevin Costner",
+      "Mary McDonnell",
+      "Graham Greene",
+      "Rodney A. Grant",
+      "Floyd 'Red Crow' Westerman"
+    ],
+    "director": "Kevin Costner"
+  },
+  {
+    "id": 281957,
+    "cast": [
+      "Leonardo DiCaprio",
+      "Tom Hardy",
+      "Domhnall Gleeson",
+      "Will Poulter",
+      "Forrest Goodluck"
+    ],
+    "director": "Alejandro G. Iñárritu"
+  },
+  {
+    "id": 871,
+    "cast": [
+      "Charlton Heston",
+      "Roddy McDowall",
+      "Kim Hunter",
+      "Maurice Evans",
+      "James Whitmore"
+    ],
+    "director": "Franklin J. Schaffner"
+  },
+  {
+    "id": 101,
+    "cast": [
+      "Jean Reno",
+      "Natalie Portman",
+      "Gary Oldman",
+      "Danny Aiello",
+      "Peter Appel"
+    ],
+    "director": "Luc Besson"
+  },
+  {
+    "id": 165,
+    "cast": [
+      "Michael J. Fox",
+      "Christopher Lloyd",
+      "Lea Thompson",
+      "Thomas F. Wilson",
+      "Elisabeth Shue"
+    ],
+    "director": "Robert Zemeckis"
+  },
+  {
+    "id": 621,
+    "cast": [
+      "Olivia Newton-John",
+      "John Travolta",
+      "Stockard Channing",
+      "Jeff Conaway",
+      "Barry Pearl"
+    ],
+    "director": "Randal Kleiser"
+  },
+  {
+    "id": 12153,
+    "cast": [
+      "Shawn Wayans",
+      "Marlon Wayans",
+      "Frankie Faison",
+      "Terry Crews",
+      "Faune Chambers Watkins"
+    ],
+    "director": "Keenen Ivory Wayans"
+  },
+  {
+    "id": 12493,
+    "cast": [
+      "Toshirō Mifune",
+      "Tatsuya Nakadai",
+      "Kyōko Kagawa",
+      "Tatsuya Mihashi",
+      "Isao Kimura"
+    ],
+    "director": "Akira Kurosawa"
+  },
+  {
+    "id": 57283,
+    "cast": [
+      "Benjamin Christensen",
+      "Ella La Cour",
+      "Emmy Schønfeld",
+      "Kate Fabian",
+      "Oscar Stribolt"
+    ],
+    "director": "Benjamin Christensen"
+  },
+  {
+    "id": 11314,
+    "cast": [
+      "Ed Asner",
+      "Pat Benatar",
+      "Johnny Carson",
+      "Dick Cavett",
+      "Marilyn Chambers"
+    ],
+    "director": "Godfrey Reggio"
+  },
+  {
+    "id": 89708,
+    "cast": [
+      "Ni Made Megahadi Pratiwi",
+      "Puti Sri Candra Dewi",
+      "Putu Dinda Pratika",
+      "Marcos Luna",
+      "Hiroshi Ishiguro"
+    ],
+    "director": "Ron Fricke"
+  },
+  {
+    "id": 654754,
+    "cast": [
+      "Billie Eilish",
+      "FINNEAS",
+      "Maggie Baird",
+      "Patrick O'Connell",
+      "Claudia Sulewski"
+    ],
+    "director": "R.J. Cutler"
+  },
+  {
+    "id": 150540,
+    "cast": [
+      "Amy Poehler",
+      "Phyllis Smith",
+      "Richard Kind",
+      "Bill Hader",
+      "Lewis Black"
+    ],
+    "director": "Pete Docter"
+  },
+  {
+    "id": 129,
+    "cast": [
+      "Rumi Hiiragi",
+      "Miyu Irino",
+      "Mari Natsuki",
+      "Takashi Naito",
+      "Yasuko Sawaguchi"
+    ],
+    "director": "Hayao Miyazaki"
+  },
+  {
+    "id": 826,
+    "cast": [
+      "William Holden",
+      "Alec Guinness",
+      "Jack Hawkins",
+      "Sessue Hayakawa",
+      "James Donald"
+    ],
+    "director": "David Lean"
+  },
+  {
+    "id": 855,
+    "cast": [
+      "Josh Hartnett",
+      "Ewan McGregor",
+      "Tom Sizemore",
+      "Eric Bana",
+      "William Fichtner"
+    ],
+    "director": "Ridley Scott"
+  },
+  {
+    "id": 13320,
+    "cast": [
+      "Audrey Hepburn",
+      "Fred Astaire",
+      "Kay Thompson",
+      "Michel Auclair",
+      "Robert Flemyng"
+    ],
+    "director": "Stanley Donen"
+  },
+  {
+    "id": 525,
+    "cast": [
+      "John Belushi",
+      "Dan Aykroyd",
+      "James Brown",
+      "Cab Calloway",
+      "Ray Charles"
+    ],
+    "director": "John Landis"
+  },
+  {
+    "id": 198277,
+    "cast": [
+      "Mark Ruffalo",
+      "Keira Knightley",
+      "Adam Levine",
+      "Hailee Steinfeld",
+      "Catherine Keener"
+    ],
+    "director": "John Carney"
+  },
+  {
+    "id": 508442,
+    "cast": [
+      "Jamie Foxx",
+      "Tina Fey",
+      "Graham Norton",
+      "Rachel House",
+      "Alice Braga"
+    ],
+    "director": "Pete Docter"
+  },
+  {
+    "id": 1368166,
+    "cast": [
+      "Sydney Sweeney",
+      "Amanda Seyfried",
+      "Brandon Sklenar",
+      "Michele Morrone",
+      "Indiana Elle"
+    ],
+    "director": "Paul Feig"
+  },
+  {
+    "id": 162,
+    "cast": [
+      "Johnny Depp",
+      "Winona Ryder",
+      "Dianne Wiest",
+      "Anthony Michael Hall",
+      "Kathy Baker"
+    ],
+    "director": "Tim Burton"
+  },
+  {
+    "id": 11036,
+    "cast": [
+      "Ryan Gosling",
+      "Rachel McAdams",
+      "Gena Rowlands",
+      "James Garner",
+      "Joan Allen"
+    ],
+    "director": "Nick Cassavetes"
+  },
+  {
+    "id": 950028,
+    "cast": [
+      "Olivia Wilde",
+      "Seth Rogen",
+      "Penélope Cruz",
+      "Edward Norton"
+    ],
+    "director": "Olivia Wilde"
+  },
+  {
+    "id": 10331,
+    "cast": [
+      "Judith O'Dea",
+      "Duane Jones",
+      "Marilyn Eastman",
+      "Karl Hardman",
+      "Judith Ridley"
+    ],
+    "director": "George A. Romero"
+  },
+  {
+    "id": 299534,
+    "cast": [
+      "Robert Downey Jr.",
+      "Chris Evans",
+      "Mark Ruffalo",
+      "Chris Hemsworth",
+      "Scarlett Johansson"
+    ],
+    "director": "Anthony Russo"
+  },
+  {
+    "id": 935,
+    "cast": [
+      "Peter Sellers",
+      "George C. Scott",
+      "Sterling Hayden",
+      "Keenan Wynn",
+      "Slim Pickens"
+    ],
+    "director": "Stanley Kubrick"
+  },
+  {
+    "id": 600,
+    "cast": [
+      "Matthew Modine",
+      "Adam Baldwin",
+      "Vincent D'Onofrio",
+      "R. Lee Ermey",
+      "Dorian Harewood"
+    ],
+    "director": "Stanley Kubrick"
+  },
+  {
+    "id": 228150,
+    "cast": [
+      "Brad Pitt",
+      "Shia LaBeouf",
+      "Logan Lerman",
+      "Michael Peña",
+      "Jon Bernthal"
+    ],
+    "director": "David Ayer"
+  },
+  {
+    "id": 3114,
+    "cast": [
+      "John Wayne",
+      "Jeffrey Hunter",
+      "Vera Miles",
+      "Ward Bond",
+      "Natalie Wood"
+    ],
+    "director": "John Ford"
+  },
+  {
+    "id": 273248,
+    "cast": [
+      "Samuel L. Jackson",
+      "Kurt Russell",
+      "Jennifer Jason Leigh",
+      "Walton Goggins",
+      "Demián Bichir"
+    ],
+    "director": "Quentin Tarantino"
+  },
+  {
+    "id": 667,
+    "cast": [
+      "Sean Connery",
+      "Akiko Wakabayashi",
+      "Mie Hama",
+      "Tetsuro Tamba",
+      "Teru Shimada"
+    ],
+    "director": "Lewis Gilbert"
+  },
+  {
+    "id": 18,
+    "cast": [
+      "Bruce Willis",
+      "Milla Jovovich",
+      "Gary Oldman",
+      "Ian Holm",
+      "Chris Tucker"
+    ],
+    "director": "Luc Besson"
+  },
+  {
+    "id": 122917,
+    "cast": [
+      "Ian McKellen",
+      "Martin Freeman",
+      "Richard Armitage",
+      "Orlando Bloom",
+      "Evangeline Lilly"
+    ],
+    "director": "Peter Jackson"
+  },
+  {
+    "id": 10144,
+    "cast": [
+      "Jodi Benson",
+      "Samuel E. Wright",
+      "Pat Carroll",
+      "Christopher Daniel Barnes",
+      "Kenneth Mars"
+    ],
+    "director": "John Musker"
+  },
+  {
+    "id": 4935,
+    "cast": [
+      "Chieko Baisho",
+      "Takuya Kimura",
+      "Akihiro Miwa",
+      "Tatsuya Gashuin",
+      "Ryunosuke Kamiki"
+    ],
+    "director": "Hayao Miyazaki"
+  },
+  {
+    "id": 37247,
+    "cast": [
+      "Dustin Hoffman",
+      "Anne Bancroft",
+      "Katharine Ross",
+      "William Daniels",
+      "Murray Hamilton"
+    ],
+    "director": "Mike Nichols"
+  },
+  {
+    "id": 585,
+    "cast": [
+      "John Goodman",
+      "Billy Crystal",
+      "Mary Gibbs",
+      "Steve Buscemi",
+      "James Coburn"
+    ],
+    "director": "Pete Docter"
+  },
+  {
+    "id": 239,
+    "cast": [
+      "Tony Curtis",
+      "Jack Lemmon",
+      "Marilyn Monroe",
+      "George Raft",
+      "Pat O'Brien"
+    ],
+    "director": "Billy Wilder"
+  },
+  {
+    "id": 39266,
+    "cast": [
+      "Adolf Hitler",
+      "Max Amann",
+      "Hermann Göring",
+      "Martin Bormann",
+      "Hans Frank"
+    ],
+    "director": "Leni Riefenstahl"
+  },
+  {
+    "id": 13576,
+    "cast": [
+      "Michael Jackson",
+      "Orianthi",
+      "Kenny Ortega",
+      "Dorian Holley",
+      "Patrick Woodroffe"
+    ],
+    "director": "Kenny Ortega"
+  },
+  {
+    "id": 967,
+    "cast": [
+      "Kirk Douglas",
+      "Laurence Olivier",
+      "Jean Simmons",
+      "Charles Laughton",
+      "Peter Ustinov"
+    ],
+    "director": "Stanley Kubrick"
+  },
+  {
+    "id": 9361,
+    "cast": [
+      "Daniel Day-Lewis",
+      "Madeleine Stowe",
+      "Jodhi May",
+      "Russell Means",
+      "Wes Studi"
+    ],
+    "director": "Michael Mann"
+  },
+  {
+    "id": 30497,
+    "cast": [
+      "Marilyn Burns",
+      "Allen Danziger",
+      "Paul A. Partain",
+      "William Vail",
+      "Teri McMinn"
+    ],
+    "director": "Tobe Hooper"
+  },
+  {
+    "id": 9297,
+    "cast": [
+      "Mitchel Musso",
+      "Sam Lerner",
+      "Spencer Locke",
+      "Steve Buscemi",
+      "Maggie Gyllenhaal"
+    ],
+    "director": "Gil Kenan"
+  },
+  {
+    "id": 5590,
+    "cast": [
+      "Catherine Deneuve",
+      "Jacques Perrin",
+      "Jean Marais",
+      "Delphine Seyrig",
+      "Fernand Ledoux"
+    ],
+    "director": "Jacques Demy"
+  },
+  {
+    "id": 6279,
+    "cast": [
+      "Whoopi Goldberg",
+      "Kathy Najimy",
+      "Lauryn Hill",
+      "Sheryl Lee Ralph",
+      "Maggie Smith"
+    ],
+    "director": "Bill Duke"
+  },
+  {
+    "id": 786,
+    "cast": [
+      "Billy Crudup",
+      "Frances McDormand",
+      "Kate Hudson",
+      "Jason Lee",
+      "Patrick Fugit"
+    ],
+    "director": "Cameron Crowe"
+  },
+  {
+    "id": 335797,
+    "cast": [
+      "Matthew McConaughey",
+      "Reese Witherspoon",
+      "Seth MacFarlane",
+      "Scarlett Johansson",
+      "John C. Reilly"
+    ],
+    "director": "Garth Jennings"
+  },
+  {
+    "id": 426,
+    "cast": [
+      "James Stewart",
+      "Kim Novak",
+      "Barbara Bel Geddes",
+      "Tom Helmore",
+      "Henry Jones"
+    ],
+    "director": "Alfred Hitchcock"
+  },
+  {
+    "id": 745,
+    "cast": [
+      "Bruce Willis",
+      "Haley Joel Osment",
+      "Toni Collette",
+      "Olivia Williams",
+      "Trevor Morgan"
+    ],
+    "director": "M. Night Shyamalan"
+  },
+  {
+    "id": 198663,
+    "cast": [
+      "Dylan O'Brien",
+      "Kaya Scodelario",
+      "Thomas Brodie-Sangster",
+      "Ki Hong Lee",
+      "Will Poulter"
+    ],
+    "director": "Wes Ball"
+  },
+  {
+    "id": 1168190,
+    "cast": [
+      "Dave Bautista",
+      "Jason Momoa",
+      "Temuera Morrison",
+      "Morena Baccarin",
+      "Roimata Fox"
+    ],
+    "director": "Ángel Manuel Soto"
+  },
+  {
+    "id": 9820,
+    "cast": [
+      "Lindsay Lohan",
+      "Dennis Quaid",
+      "Natasha Richardson",
+      "Elaine Hendrix",
+      "Lisa Ann Walter"
+    ],
+    "director": "Nancy Meyers"
+  },
+  {
+    "id": 4348,
+    "cast": [
+      "Keira Knightley",
+      "Matthew Macfadyen",
+      "Brenda Blethyn",
+      "Rosamund Pike",
+      "Carey Mulligan"
+    ],
+    "director": "Joe Wright"
+  },
+  {
+    "id": 687163,
+    "cast": [
+      "Ryan Gosling",
+      "Sandra Hüller",
+      "James Ortiz",
+      "Lionel Boyce",
+      "Milana Vayntrub"
+    ],
+    "director": "Phil Lord"
+  },
+  {
+    "id": 1275779,
+    "cast": [
+      "Emily Blunt",
+      "Josh O'Connor",
+      "Colin Firth",
+      "Eve Hewson",
+      "Colman Domingo"
+    ],
+    "director": "Steven Spielberg"
+  },
+  {
+    "id": 11778,
+    "cast": [
+      "Robert De Niro",
+      "Christopher Walken",
+      "John Cazale",
+      "John Savage",
+      "Meryl Streep"
+    ],
+    "director": "Michael Cimino"
+  },
+  {
+    "id": 642,
+    "cast": [
+      "Paul Newman",
+      "Robert Redford",
+      "Katharine Ross",
+      "Strother Martin",
+      "Henry Jones"
+    ],
+    "director": "George Roy Hill"
+  },
+  {
+    "id": 9659,
+    "cast": [
+      "Mel Gibson",
+      "Joanne Samuel",
+      "Hugh Keays-Byrne",
+      "Steve Bisley",
+      "Tim Burns"
+    ],
+    "director": "George Miller"
+  },
+  {
+    "id": 85,
+    "cast": [
+      "Harrison Ford",
+      "Karen Allen",
+      "Paul Freeman",
+      "John Rhys-Davies",
+      "Ronald Lacey"
+    ],
+    "director": "Steven Spielberg"
+  },
+  {
+    "id": 299536,
+    "cast": [
+      "Robert Downey Jr.",
+      "Chris Evans",
+      "Chris Hemsworth",
+      "Josh Brolin",
+      "Mark Ruffalo"
+    ],
+    "director": "Joe Russo"
+  },
+  {
+    "id": 122,
+    "cast": [
+      "Elijah Wood",
+      "Ian McKellen",
+      "Viggo Mortensen",
+      "Sean Astin",
+      "Andy Serkis"
+    ],
+    "director": "Peter Jackson"
+  },
+  {
+    "id": 9325,
+    "cast": [
+      "Bruce Reitherman",
+      "Phil Harris",
+      "Sebastian Cabot",
+      "George Sanders",
+      "Sterling Holloway"
+    ],
+    "director": "Wolfgang Reitherman"
+  },
+  {
+    "id": 9487,
+    "cast": [
+      "Dave Foley",
+      "Kevin Spacey",
+      "Julia Louis-Dreyfus",
+      "Hayden Panettiere",
+      "Phyllis Diller"
+    ],
+    "director": "John Lasseter"
+  },
+  {
+    "id": 1311031,
+    "cast": [
+      "Natsuki Hanae",
+      "Takahiro Sakurai",
+      "Akira Ishida",
+      "Hiro Shimono",
+      "Yoshimasa Hosoya"
+    ],
+    "director": "Haruo Sotozaki"
+  },
+  {
+    "id": 10340,
+    "cast": [
+      "Barbara Luddy",
+      "Larry Roberts",
+      "Peggy Lee",
+      "Bill Thompson",
+      "Bill Baucom"
+    ],
+    "director": "Hamilton Luske"
+  },
+  {
+    "id": 37165,
+    "cast": [
+      "Jim Carrey",
+      "Laura Linney",
+      "Noah Emmerich",
+      "Natascha McElhone",
+      "Holland Taylor"
+    ],
+    "director": "Peter Weir"
+  },
+  {
+    "id": 93456,
+    "cast": [
+      "Steve Carell",
+      "Kristen Wiig",
+      "Benjamin Bratt",
+      "Miranda Cosgrove",
+      "Dana Gaier Ellis"
+    ],
+    "director": "Pierre Coffin"
+  },
+  {
+    "id": 242,
+    "cast": [
+      "Al Pacino",
+      "Diane Keaton",
+      "Talia Shire",
+      "Andy Garcia",
+      "Eli Wallach"
+    ],
+    "director": "Francis Ford Coppola"
+  },
+  {
+    "id": 13963,
+    "cast": [
+      "Robbie Robertson",
+      "Rick Danko",
+      "Levon Helm",
+      "Richard Manuel",
+      "Garth Hudson"
+    ],
+    "director": "Martin Scorsese"
+  },
+  {
+    "id": 1430,
+    "cast": [
+      "Michael Moore",
+      "George H. W. Bush",
+      "George W. Bush",
+      "Charlton Heston",
+      "Jacobo Árbenz"
+    ],
+    "director": "Michael Moore"
+  },
+  {
+    "id": 656690,
+    "cast": [
+      "Tristan Harris",
+      "Jeff Seibert",
+      "Bailey Richardson",
+      "Joe Toscano",
+      "Sandy Parakilas"
+    ],
+    "director": "Jeff Orlowski"
+  },
+  {
+    "id": 510,
+    "cast": [
+      "Jack Nicholson",
+      "Brad Dourif",
+      "Louise Fletcher",
+      "Danny DeVito",
+      "William Redfield"
+    ],
+    "director": "Miloš Forman"
+  },
+  {
+    "id": 1585,
+    "cast": [
+      "James Stewart",
+      "Donna Reed",
+      "Lionel Barrymore",
+      "Thomas Mitchell",
+      "Henry Travers"
+    ],
+    "director": "Frank Capra"
+  },
+  {
+    "id": 5902,
+    "cast": [
+      "Dirk Bogarde",
+      "James Caan",
+      "Michael Caine",
+      "Sean Connery",
+      "Edward Fox"
+    ],
+    "director": "Richard Attenborough"
+  },
+  {
+    "id": 11645,
+    "cast": [
+      "Tatsuya Nakadai",
+      "Akira Terao",
+      "Jinpachi Nezu",
+      "Daisuke Ryū",
+      "Mieko Harada"
+    ],
+    "director": "Akira Kurosawa"
+  },
+  {
+    "id": 14574,
+    "cast": [
+      "Asa Butterfield",
+      "Vera Farmiga",
+      "David Thewlis",
+      "Rupert Friend",
+      "David Hayman"
+    ],
+    "director": "Mark Herman"
+  },
+  {
+    "id": 466420,
+    "cast": [
+      "Leonardo DiCaprio",
+      "Robert De Niro",
+      "Lily Gladstone",
+      "Jesse Plemons",
+      "Tantoo Cardinal"
+    ],
+    "director": "Martin Scorsese"
+  },
+  {
+    "id": 1307118,
+    "cast": [
+      "David Rysdahl",
+      "Lily Sullivan",
+      "Claudia Doumit",
+      "Arty Froushan",
+      "Elijah Isaiah Cook"
+    ],
+    "director": "Kate Dolan"
+  },
+  {
+    "id": 13757,
+    "cast": [
+      "Roy Rogers",
+      "Dennis Day",
+      "Freddy Martin",
+      "Frances Langford",
+      "Ethel Smith"
+    ],
+    "director": "Clyde Geronimi"
+  },
+  {
+    "id": 86829,
+    "cast": [
+      "Oscar Isaac",
+      "Carey Mulligan",
+      "Justin Timberlake",
+      "Ethan Phillips",
+      "Robin Bartlett"
+    ],
+    "director": "Joel Coen"
+  },
+  {
+    "id": 843527,
+    "cast": [
+      "Anne Hathaway",
+      "Nicholas Galitzine",
+      "Ella Rubin",
+      "Annie Mumolo",
+      "Reid Scott"
+    ],
+    "director": "Michael Showalter"
+  },
+  {
+    "id": 152,
+    "cast": [
+      "William Shatner",
+      "Leonard Nimoy",
+      "DeForest Kelley",
+      "James Doohan",
+      "George Takei"
+    ],
+    "director": "Robert Wise"
+  },
+  {
+    "id": 2668,
+    "cast": [
+      "Johnny Depp",
+      "Christina Ricci",
+      "Miranda Richardson",
+      "Michael Gambon",
+      "Casper Van Dien"
+    ],
+    "director": "Tim Burton"
+  },
+  {
+    "id": 414906,
+    "cast": [
+      "Robert Pattinson",
+      "Zoë Kravitz",
+      "Jeffrey Wright",
+      "Colin Farrell",
+      "Paul Dano"
+    ],
+    "director": "Matt Reeves"
+  },
+  {
+    "id": 2105,
+    "cast": [
+      "Jason Biggs",
+      "Chris Klein",
+      "Thomas Ian Nicholas",
+      "Alyson Hannigan",
+      "Shannon Elizabeth"
+    ],
+    "director": "Paul Weitz"
+  },
+  {
+    "id": 10138,
+    "cast": [
+      "Robert Downey Jr.",
+      "Gwyneth Paltrow",
+      "Don Cheadle",
+      "Scarlett Johansson",
+      "Sam Rockwell"
+    ],
+    "director": "Jon Favreau"
+  },
+  {
+    "id": 975,
+    "cast": [
+      "Kirk Douglas",
+      "Ralph Meeker",
+      "Adolphe Menjou",
+      "George Macready",
+      "Wayne Morris"
+    ],
+    "director": "Stanley Kubrick"
+  },
+  {
+    "id": 1369,
+    "cast": [
+      "Sylvester Stallone",
+      "Richard Crenna",
+      "Charles Napier",
+      "Steven Berkoff",
+      "Julia Nickson"
+    ],
+    "director": "George P. Cosmatos"
+  },
+  {
+    "id": 966,
+    "cast": [
+      "Yul Brynner",
+      "Eli Wallach",
+      "Steve McQueen",
+      "Charles Bronson",
+      "Robert Vaughn"
+    ],
+    "director": "John Sturges"
+  },
+  {
+    "id": 44896,
+    "cast": [
+      "Johnny Depp",
+      "Isla Fisher",
+      "Ned Beatty",
+      "Bill Nighy",
+      "Abigail Breslin"
+    ],
+    "director": "Gore Verbinski"
+  },
+  {
+    "id": 646,
+    "cast": [
+      "Sean Connery",
+      "Ursula Andress",
+      "Joseph Wiseman",
+      "Jack Lord",
+      "Anthony Dawson"
+    ],
+    "director": "Terence Young"
+  },
+  {
+    "id": 564,
+    "cast": [
+      "Brendan Fraser",
+      "Rachel Weisz",
+      "John Hannah",
+      "Arnold Vosloo",
+      "Patricia Velásquez"
+    ],
+    "director": "Stephen Sommers"
+  },
+  {
+    "id": 673,
+    "cast": [
+      "Daniel Radcliffe",
+      "Rupert Grint",
+      "Emma Watson",
+      "Robbie Coltrane",
+      "Michael Gambon"
+    ],
+    "director": "Alfonso Cuarón"
+  },
+  {
+    "id": 8392,
+    "cast": [
+      "Noriko Hidaka",
+      "Chika Sakamoto",
+      "Hitoshi Takagi",
+      "Shigesato Itoi",
+      "Sumi Shimamoto"
+    ],
+    "director": "Hayao Miyazaki"
+  },
+  {
+    "id": 533535,
+    "cast": [
+      "Ryan Reynolds",
+      "Hugh Jackman",
+      "Emma Corrin",
+      "Matthew Macfadyen",
+      "Dafne Keen"
+    ],
+    "director": "Shawn Levy"
+  },
+  {
+    "id": 9277,
+    "cast": [
+      "Paul Newman",
+      "Robert Redford",
+      "Robert Shaw",
+      "Charles Durning",
+      "Ray Walston"
+    ],
+    "director": "George Roy Hill"
+  },
+  {
+    "id": 1280738,
+    "cast": [
+      "Xie Miao",
+      "Joe Taslim",
+      "Yang Enyou",
+      "Yayan Ruhian",
+      "JeeJa Yanin"
+    ],
+    "director": "Kenji Tanigaki"
+  },
+  {
+    "id": 43003,
+    "cast": [
+      "Orson Welles",
+      "Oja Kodar",
+      "Elmyr de Hory",
+      "Clifford Irving",
+      "Laurence Harvey"
+    ],
+    "director": "Orson Welles"
+  },
+  {
+    "id": 4539,
+    "cast": [
+      "Francis Ford Coppola",
+      "Eleanor Coppola",
+      "John Milius",
+      "George Lucas",
+      "Sam Bottoms"
+    ],
+    "director": "George Hickenlooper"
+  },
+  {
+    "id": 12094,
+    "cast": [
+      "Johnny Knoxville",
+      "Bam Margera",
+      "Steve-O",
+      "Chris Pontius",
+      "Ryan Dunn"
+    ],
+    "director": "Jeff Tremaine"
+  },
+  {
+    "id": 396194,
+    "cast": [
+      "Ennio Morricone",
+      "Silvano Agosti",
+      "Alessandro Alessandroni",
+      "Fausto Ancillai",
+      "Dario Argento"
+    ],
+    "director": "Giuseppe Tornatore"
+  },
+  {
+    "id": 10693,
+    "cast": [
+      "Bobby Driscoll",
+      "Kathryn Beaumont",
+      "Hans Conried",
+      "Bill Thompson",
+      "Heather Angel"
+    ],
+    "director": "Clyde Geronimi"
+  },
+  {
+    "id": 3175,
+    "cast": [
+      "Ryan O'Neal",
+      "Marisa Berenson",
+      "Patrick Magee",
+      "Hardy Krüger",
+      "Steven Berkoff"
+    ],
+    "director": "Stanley Kubrick"
+  },
+  {
+    "id": 746,
+    "cast": [
+      "John Lone",
+      "Joan Chen",
+      "Peter O'Toole",
+      "Ruocheng Ying",
+      "Victor Wong"
+    ],
+    "director": "Bernardo Bertolucci"
+  },
+  {
+    "id": 1579,
+    "cast": [
+      "Rudy Youngblood",
+      "Raoul Max Trujillo",
+      "Gerardo Taracena",
+      "Iazua Larios",
+      "Antonio Monroy"
+    ],
+    "director": "Mel Gibson"
+  },
+  {
+    "id": 490132,
+    "cast": [
+      "Viggo Mortensen",
+      "Mahershala Ali",
+      "Linda Cardellini",
+      "Sebastian Maniscalco",
+      "Dimiter D. Marinov"
+    ],
+    "director": "Peter Farrelly"
+  },
+  {
+    "id": 377,
+    "cast": [
+      "Heather Langenkamp",
+      "Johnny Depp",
+      "Robert Englund",
+      "Amanda Wyss",
+      "Jsu Garcia"
+    ],
+    "director": "Wes Craven"
+  },
+  {
+    "id": 933260,
+    "cast": [
+      "Demi Moore",
+      "Margaret Qualley",
+      "Dennis Quaid",
+      "Edward Hamilton-Clark",
+      "Gore Abrams"
+    ],
+    "director": "Coralie Fargeat"
+  },
+  {
+    "id": 704,
+    "cast": [
+      "John Lennon",
+      "Paul McCartney",
+      "George Harrison",
+      "Ringo Starr",
+      "Wilfrid Brambell"
+    ],
+    "director": "Richard Lester"
+  },
+  {
+    "id": 49948,
+    "cast": [
+      "Steve Martin",
+      "Itzhak Perlman",
+      "Quincy Jones",
+      "Bette Midler",
+      "James Earl Jones"
+    ],
+    "director": "James Algar"
+  },
+  {
+    "id": 65,
+    "cast": [
+      "Eminem",
+      "Kim Basinger",
+      "Mekhi Phifer",
+      "Brittany Murphy",
+      "Evan Jones"
+    ],
+    "director": "Curtis Hanson"
+  },
+  {
+    "id": 446893,
+    "cast": [
+      "Anna Kendrick",
+      "Justin Timberlake",
+      "Ron Funches",
+      "Rachel Bloom",
+      "James Corden"
+    ],
+    "director": "Walt Dohrn"
+  },
+  {
+    "id": 381,
+    "cast": [
+      "Cary Grant",
+      "Grace Kelly",
+      "Jessie Royce Landis",
+      "John Williams",
+      "Charles Vanel"
+    ],
+    "director": "Alfred Hitchcock"
+  },
+  {
+    "id": 4232,
+    "cast": [
+      "Neve Campbell",
+      "Skeet Ulrich",
+      "Rose McGowan",
+      "Matthew Lillard",
+      "David Arquette"
+    ],
+    "director": "Wes Craven"
+  },
+  {
+    "id": 1124,
+    "cast": [
+      "Hugh Jackman",
+      "Christian Bale",
+      "Michael Caine",
+      "Piper Perabo",
+      "Rebecca Hall"
+    ],
+    "director": "Christopher Nolan"
+  },
+  {
+    "id": 9489,
+    "cast": [
+      "Meg Ryan",
+      "Tom Hanks",
+      "Greg Kinnear",
+      "Parker Posey",
+      "Heather Burns"
+    ],
+    "director": "Nora Ephron"
+  },
+  {
+    "id": 967941,
+    "cast": [
+      "Cynthia Erivo",
+      "Ariana Grande",
+      "Jeff Goldblum",
+      "Michelle Yeoh",
+      "Jonathan Bailey"
+    ],
+    "director": "Jon M. Chu"
+  },
+  {
+    "id": 840,
+    "cast": [
+      "Richard Dreyfuss",
+      "François Truffaut",
+      "Teri Garr",
+      "Melinda Dillon",
+      "Bob Balaban"
+    ],
+    "director": "Steven Spielberg"
+  },
+  {
+    "id": 131631,
+    "cast": [
+      "Jennifer Lawrence",
+      "Josh Hutcherson",
+      "Liam Hemsworth",
+      "Woody Harrelson",
+      "Elizabeth Banks"
+    ],
+    "director": "Francis Lawrence"
+  },
+  {
+    "id": 213,
+    "cast": [
+      "Cary Grant",
+      "Eva Marie Saint",
+      "James Mason",
+      "Jessie Royce Landis",
+      "Leo G. Carroll"
+    ],
+    "director": "Alfred Hitchcock"
+  },
+  {
+    "id": 1712,
+    "cast": [
+      "Elizabeth Taylor",
+      "Rock Hudson",
+      "James Dean",
+      "Carroll Baker",
+      "Jane Withers"
+    ],
+    "director": "George Stevens"
+  },
+  {
+    "id": 4476,
+    "cast": [
+      "Brad Pitt",
+      "Anthony Hopkins",
+      "Aidan Quinn",
+      "Julia Ormond",
+      "Henry Thomas"
+    ],
+    "director": "Edward Zwick"
+  },
+  {
+    "id": 333484,
+    "cast": [
+      "Denzel Washington",
+      "Chris Pratt",
+      "Ethan Hawke",
+      "Vincent D'Onofrio",
+      "Lee Byung-hun"
+    ],
+    "director": "Antoine Fuqua"
+  },
+  {
+    "id": 660,
+    "cast": [
+      "Sean Connery",
+      "Claudine Auger",
+      "Adolfo Celi",
+      "Luciana Paluzzi",
+      "Rik Van Nutter"
+    ],
+    "director": "Terence Young"
+  },
+  {
+    "id": 1368,
+    "cast": [
+      "Sylvester Stallone",
+      "Richard Crenna",
+      "Brian Dennehy",
+      "Bill McKinney",
+      "Jack Starrett"
+    ],
+    "director": "Ted Kotcheff"
+  },
+  {
+    "id": 634649,
+    "cast": [
+      "Tom Holland",
+      "Zendaya",
+      "Benedict Cumberbatch",
+      "Jacob Batalon",
+      "Jon Favreau"
+    ],
+    "director": "Jon Watts"
+  },
+  {
+    "id": 772,
+    "cast": [
+      "Macaulay Culkin",
+      "Joe Pesci",
+      "Daniel Stern",
+      "Catherine O'Hara",
+      "John Heard"
+    ],
+    "director": "Chris Columbus"
+  },
+  {
+    "id": 672,
+    "cast": [
+      "Daniel Radcliffe",
+      "Rupert Grint",
+      "Emma Watson",
+      "Kenneth Branagh",
+      "Toby Jones"
+    ],
+    "director": "Chris Columbus"
+  },
+  {
+    "id": 128,
+    "cast": [
+      "Yoji Matsuda",
+      "Yuriko Ishida",
+      "Yuko Tanaka",
+      "Kaoru Kobayashi",
+      "Masahiko Nishimura"
+    ],
+    "director": "Hayao Miyazaki"
+  },
+  {
+    "id": 1184918,
+    "cast": [
+      "Lupita Nyong'o",
+      "Pedro Pascal",
+      "Kit Connor",
+      "Bill Nighy",
+      "Stephanie Hsu"
+    ],
+    "director": "Chris Sanders"
+  },
+  {
+    "id": 810,
+    "cast": [
+      "Mike Myers",
+      "Eddie Murphy",
+      "Cameron Diaz",
+      "Antonio Banderas",
+      "Julie Andrews"
+    ],
+    "director": "Chris Miller"
+  },
+  {
+    "id": 1273221,
+    "cast": [
+      "Anna Faris",
+      "Regina Hall",
+      "Marlon Wayans",
+      "Shawn Wayans",
+      "Olivia Rose Keegan"
+    ],
+    "director": "Michael Tiddes"
+  },
+  {
+    "id": 15371,
+    "cast": [
+      "Yasuo Yamada",
+      "Kiyoshi Kobayashi",
+      "Eiko Masuyama",
+      "Makio Inoue",
+      "Gorō Naya"
+    ],
+    "director": "Hayao Miyazaki"
+  },
+  {
+    "id": 769,
+    "cast": [
+      "Robert De Niro",
+      "Ray Liotta",
+      "Joe Pesci",
+      "Lorraine Bracco",
+      "Paul Sorvino"
+    ],
+    "director": "Martin Scorsese"
+  },
+  {
+    "id": 161,
+    "cast": [
+      "George Clooney",
+      "Brad Pitt",
+      "Andy Garcia",
+      "Matt Damon",
+      "Julia Roberts"
+    ],
+    "director": "Steven Soderbergh"
+  },
+  {
+    "id": 1621552,
+    "cast": [
+      "Alfonso Herrera",
+      "Noé Hernández",
+      "Hector Kotsifakis",
+      "Paola Fernández",
+      "Gerardo Trejoluna"
+    ],
+    "director": "Chava Cartas"
+  },
+  {
+    "id": 9459,
+    "cast": [
+      "Richie Havens",
+      "Joan Baez",
+      "Roger Daltrey",
+      "John Entwistle",
+      "Keith Moon"
+    ],
+    "director": "Michael Wadleigh"
+  },
+  {
+    "id": 1777,
+    "cast": [
+      "Michael Moore",
+      "John Conyers",
+      "Abdul Henderson",
+      "Craig Unger",
+      "George W. Bush"
+    ],
+    "director": "Michael Moore"
+  },
+  {
+    "id": 515042,
+    "cast": [
+      "Alex Honnold",
+      "Tommy Caldwell",
+      "Jimmy Chin",
+      "Sanni McCandless",
+      "Mikey Schaefer"
+    ],
+    "director": "Jimmy Chin"
+  },
+  {
+    "id": 335984,
+    "cast": [
+      "Ryan Gosling",
+      "Harrison Ford",
+      "Ana de Armas",
+      "Dave Bautista",
+      "Robin Wright"
+    ],
+    "director": "Denis Villeneuve"
+  },
+  {
+    "id": 10895,
+    "cast": [
+      "Dickie Jones",
+      "Cliff Edwards",
+      "Christian Rub",
+      "Evelyn Venable",
+      "Walter Catlett"
+    ],
+    "director": "Hamilton Luske"
+  },
+  {
+    "id": 11165,
+    "cast": [
+      "Martin Balsam",
+      "So Yamamura",
+      "Jason Robards",
+      "Joseph Cotten",
+      "Tatsuya Mihashi"
+    ],
+    "director": "Toshio Masuda"
+  },
+  {
+    "id": 805,
+    "cast": [
+      "Mia Farrow",
+      "John Cassavetes",
+      "Ruth Gordon",
+      "Sidney Blackmer",
+      "Maurice Evans"
+    ],
+    "director": "Roman Polanski"
+  },
+  {
+    "id": 170,
+    "cast": [
+      "Cillian Murphy",
+      "Naomie Harris",
+      "Brendan Gleeson",
+      "Megan Burns",
+      "Christopher Eccleston"
+    ],
+    "director": "Danny Boyle"
+  },
+  {
+    "id": 1233413,
+    "cast": [
+      "Michael B. Jordan",
+      "Hailee Steinfeld",
+      "Miles Caton",
+      "Jack O'Connell",
+      "Wunmi Mosaku"
+    ],
+    "director": "Ryan Coogler"
+  },
+  {
+    "id": 2769,
+    "cast": [
+      "Gene Kelly",
+      "Leslie Caron",
+      "Oscar Levant",
+      "Georges Guétary",
+      "Nina Foch"
+    ],
+    "director": "Vincente Minnelli"
+  },
+  {
+    "id": 10376,
+    "cast": [
+      "Tim Roth",
+      "Pruitt Taylor Vince",
+      "Mélanie Thierry",
+      "Bill Nunn",
+      "Gabriele Lavia"
+    ],
+    "director": "Giuseppe Tornatore"
+  },
+  {
+    "id": 1584,
+    "cast": [
+      "Jack Black",
+      "Joan Cusack",
+      "Mike White",
+      "Sarah Silverman",
+      "Miranda Cosgrove"
+    ],
+    "director": "Richard Linklater"
+  },
+  {
+    "id": 1092,
+    "cast": [
+      "Joseph Cotten",
+      "Alida Valli",
+      "Trevor Howard",
+      "Orson Welles",
+      "Paul Hörbiger"
+    ],
+    "director": "Carol Reed"
+  },
+  {
+    "id": 402,
+    "cast": [
+      "Michael Douglas",
+      "Sharon Stone",
+      "George Dzundza",
+      "Jeanne Tripplehorn",
+      "Denis Arndt"
+    ],
+    "director": "Paul Verhoeven"
+  },
+  {
+    "id": 1325734,
+    "cast": [
+      "Zendaya",
+      "Robert Pattinson",
+      "Alana Haim",
+      "Mamoudou Athie",
+      "Hailey Benton Gates"
+    ],
+    "director": "Kristoffer Borgli"
+  },
+  {
+    "id": 1924,
+    "cast": [
+      "Christopher Reeve",
+      "Margot Kidder",
+      "Gene Hackman",
+      "Marlon Brando",
+      "Ned Beatty"
+    ],
+    "director": "Richard Donner"
+  },
+  {
+    "id": 557,
+    "cast": [
+      "Tobey Maguire",
+      "Willem Dafoe",
+      "Kirsten Dunst",
+      "James Franco",
+      "Cliff Robertson"
+    ],
+    "director": "Sam Raimi"
+  },
+  {
+    "id": 10734,
+    "cast": [
+      "Clint Eastwood",
+      "Patrick McGoohan",
+      "Roberts Blossom",
+      "Jack Thibeau",
+      "Fred Ward"
+    ],
+    "director": "Don Siegel"
+  },
+  {
+    "id": 78,
+    "cast": [
+      "Harrison Ford",
+      "Rutger Hauer",
+      "Sean Young",
+      "Edward James Olmos",
+      "M. Emmet Walsh"
+    ],
+    "director": "Ridley Scott"
+  },
+  {
+    "id": 423,
+    "cast": [
+      "Adrien Brody",
+      "Thomas Kretschmann",
+      "Frank Finlay",
+      "Maureen Lipman",
+      "Emilia Fox"
+    ],
+    "director": "Roman Polanski"
+  },
+  {
+    "id": 530915,
+    "cast": [
+      "George MacKay",
+      "Dean-Charles Chapman",
+      "Mark Strong",
+      "Andrew Scott",
+      "Richard Madden"
+    ],
+    "director": "Sam Mendes"
+  },
+  {
+    "id": 336,
+    "cast": [
+      "Rod Steiger",
+      "James Coburn",
+      "Romolo Valli",
+      "Maria Monti",
+      "Rik Battaglia"
+    ],
+    "director": "Sergio Leone"
+  },
+  {
+    "id": 9023,
+    "cast": [
+      "Matt Damon",
+      "James Cromwell",
+      "Daniel Studi",
+      "Chopper Bernet",
+      "Jeff LeBeau"
+    ],
+    "director": "Kelly Asbury"
+  },
+  {
+    "id": 954,
+    "cast": [
+      "Tom Cruise",
+      "Jon Voight",
+      "Emmanuelle Béart",
+      "Henry Czerny",
+      "Jean Reno"
+    ],
+    "director": "Brian De Palma"
+  },
+  {
+    "id": 3170,
+    "cast": [
+      "Donnie Dunagan",
+      "Peter Behn",
+      "Stan Alexander",
+      "Cammie King",
+      "Will Wright"
+    ],
+    "director": "David Hand"
+  },
+  {
+    "id": 1226863,
+    "cast": [],
+    "director": "Michael Jelenic"
+  },
+  {
+    "id": 872,
+    "cast": [
+      "Gene Kelly",
+      "Donald O'Connor",
+      "Debbie Reynolds",
+      "Jean Hagen",
+      "Millard Mitchell"
+    ],
+    "director": "Stanley Donen"
+  },
+  {
+    "id": 38365,
+    "cast": [
+      "Adam Sandler",
+      "Kevin James",
+      "Chris Rock",
+      "David Spade",
+      "Rob Schneider"
+    ],
+    "director": "Dennis Dugan"
+  },
+  {
+    "id": 936,
+    "cast": [
+      "David Niven",
+      "Peter Sellers",
+      "Claudia Cardinale",
+      "Capucine",
+      "Robert Wagner"
+    ],
+    "director": "Blake Edwards"
+  },
+  {
+    "id": 111,
+    "cast": [
+      "Al Pacino",
+      "Steven Bauer",
+      "Michelle Pfeiffer",
+      "Mary Elizabeth Mastrantonio",
+      "Robert Loggia"
+    ],
+    "director": "Brian De Palma"
+  },
+  {
+    "id": 42733,
+    "cast": [
+      "Pier Paolo Pasolini",
+      "Lello Bersani",
+      "Alberto Moravia",
+      "Cesare Musatti",
+      "Peppino Di Capri"
+    ],
+    "director": "Pier Paolo Pasolini"
+  },
+  {
+    "id": 14285,
+    "cast": [
+      "Randall Adams",
+      "David Harris",
+      "Gus Rose",
+      "Jackie Johnson",
+      "Marshall Touchton"
+    ],
+    "director": "Errol Morris"
+  },
+  {
+    "id": 1667,
+    "cast": [
+      "Charles Berling",
+      "Romane Bohringer",
+      "Jules Sitruk",
+      "Morgan Freeman"
+    ],
+    "director": "Luc Jacquet"
+  },
+  {
+    "id": 1015606,
+    "cast": [
+      "Ewan McGregor",
+      "Hayden Christensen",
+      "Deborah Chow",
+      "Moses Ingram",
+      "Vivien Lyra Blair"
+    ],
+    "director": "David Gelb"
+  },
+  {
+    "id": 1366,
+    "cast": [
+      "Sylvester Stallone",
+      "Talia Shire",
+      "Burt Young",
+      "Carl Weathers",
+      "Burgess Meredith"
+    ],
+    "director": "John G. Avildsen"
+  },
+  {
+    "id": 12,
+    "cast": [
+      "Albert Brooks",
+      "Ellen DeGeneres",
+      "Alexander Gould",
+      "Willem Dafoe",
+      "Geoffrey Rush"
+    ],
+    "director": "Andrew Stanton"
+  },
+  {
+    "id": 490,
+    "cast": [
+      "Gunnar Björnstrand",
+      "Bengt Ekerot",
+      "Nils Poppe",
+      "Max von Sydow",
+      "Bibi Andersson"
+    ],
+    "director": "Ingmar Bergman"
+  },
+  {
+    "id": 9289,
+    "cast": [
+      "John Wayne",
+      "Robert Mitchum",
+      "Henry Fonda",
+      "Richard Burton",
+      "Sean Connery"
+    ],
+    "director": "Ken Annakin"
+  },
+  {
+    "id": 8741,
+    "cast": [
+      "Jim Caviezel",
+      "Nick Nolte",
+      "Sean Penn",
+      "Ben Chaplin",
+      "Elias Koteas"
+    ],
+    "director": "Terrence Malick"
+  },
+  {
+    "id": 45269,
+    "cast": [
+      "Colin Firth",
+      "Geoffrey Rush",
+      "Helena Bonham Carter",
+      "Guy Pearce",
+      "Timothy Spall"
+    ],
+    "director": "Tom Hooper"
+  },
+  {
+    "id": 571,
+    "cast": [
+      "Tippi Hedren",
+      "Rod Taylor",
+      "Jessica Tandy",
+      "Suzanne Pleshette",
+      "Veronica Cartwright"
+    ],
+    "director": "Alfred Hitchcock"
+  },
+  {
+    "id": 1212763,
+    "cast": [
+      "Souheila Yacoub",
+      "Tandi Wright",
+      "Hunter Doohan",
+      "Luciane Buchanan",
+      "Erroll Shand"
+    ],
+    "director": "Sébastien Vaniček"
+  },
+  {
+    "id": 10784,
+    "cast": [
+      "Liza Minnelli",
+      "Michael York",
+      "Helmut Griem",
+      "Joel Grey",
+      "Fritz Wepper"
+    ],
+    "director": "Bob Fosse"
+  },
+  {
+    "id": 438695,
+    "cast": [
+      "Matthew McConaughey",
+      "Reese Witherspoon",
+      "Scarlett Johansson",
+      "Taron Egerton",
+      "Bobby Cannavale"
+    ],
+    "director": "Garth Jennings"
+  },
+  {
+    "id": 829,
+    "cast": [
+      "Jack Nicholson",
+      "Faye Dunaway",
+      "John Huston",
+      "Perry Lopez",
+      "Burt Young"
+    ],
+    "director": "Roman Polanski"
+  },
+  {
+    "id": 1813,
+    "cast": [
+      "Keanu Reeves",
+      "Al Pacino",
+      "Charlize Theron",
+      "Jeffrey Jones",
+      "Judith Ivey"
+    ],
+    "director": "Taylor Hackford"
+  },
+  {
+    "id": 1159559,
+    "cast": [
+      "Neve Campbell",
+      "Courteney Cox",
+      "Isabel May",
+      "Jasmin Savoy Brown",
+      "Mason Gooding"
+    ],
+    "director": "Kevin Williamson"
+  },
+  {
+    "id": 4951,
+    "cast": [
+      "Heath Ledger",
+      "Julia Stiles",
+      "Joseph Gordon-Levitt",
+      "Larisa Oleynik",
+      "David Krumholtz"
+    ],
+    "director": "Gil Junger"
+  },
+  {
+    "id": 809,
+    "cast": [
+      "Mike Myers",
+      "Eddie Murphy",
+      "Cameron Diaz",
+      "Julie Andrews",
+      "Antonio Banderas"
+    ],
+    "director": "Andrew Adamson"
+  },
+  {
+    "id": 923,
+    "cast": [
+      "David Emge",
+      "Ken Foree",
+      "Scott H. Reiniger",
+      "Gaylen Ross",
+      "David Crawford"
+    ],
+    "director": "George A. Romero"
+  },
+  {
+    "id": 19995,
+    "cast": [
+      "Sam Worthington",
+      "Zoe Saldaña",
+      "Sigourney Weaver",
+      "Stephen Lang",
+      "Michelle Rodriguez"
+    ],
+    "director": "James Cameron"
+  },
+  {
+    "id": 11046,
+    "cast": [
+      "Richard Burton",
+      "Clint Eastwood",
+      "Mary Ure",
+      "Patrick Wymark",
+      "Michael Hordern"
+    ],
+    "director": "Brian G. Hutton"
+  },
+  {
+    "id": 1417,
+    "cast": [
+      "Ivana Baquero",
+      "Sergi López",
+      "Maribel Verdú",
+      "Doug Jones",
+      "Ariadna Gil"
+    ],
+    "director": "Guillermo del Toro"
+  },
+  {
+    "id": 288,
+    "cast": [
+      "Gary Cooper",
+      "Thomas Mitchell",
+      "Lloyd Bridges",
+      "Katy Jurado",
+      "Grace Kelly"
+    ],
+    "director": "Fred Zinnemann"
+  },
+  {
+    "id": 253,
+    "cast": [
+      "Roger Moore",
+      "Yaphet Kotto",
+      "Jane Seymour",
+      "Clifton James",
+      "Julius Harris"
+    ],
+    "director": "Guy Hamilton"
+  },
+  {
+    "id": 11970,
+    "cast": [
+      "Tate Donovan",
+      "Josh Keaton",
+      "Roger Bart",
+      "Danny DeVito",
+      "James Woods"
+    ],
+    "director": "Ron Clements"
+  },
+  {
+    "id": 583,
+    "cast": [
+      "Graham Chapman",
+      "John Cleese",
+      "Terry Gilliam",
+      "Eric Idle",
+      "Terry Jones"
+    ],
+    "director": "Terry Jones"
+  },
+  {
+    "id": 968,
+    "cast": [
+      "Al Pacino",
+      "John Cazale",
+      "Charles Durning",
+      "Chris Sarandon",
+      "James Broderick"
+    ],
+    "director": "Sidney Lumet"
+  },
+  {
+    "id": 311,
+    "cast": [
+      "Robert De Niro",
+      "James Woods",
+      "Elizabeth McGovern",
+      "Joe Pesci",
+      "Burt Young"
+    ],
+    "director": "Sergio Leone"
+  },
+  {
+    "id": 156022,
+    "cast": [
+      "Denzel Washington",
+      "Marton Csokas",
+      "Chloë Grace Moretz",
+      "David Harbour",
+      "Haley Bennett"
+    ],
+    "director": "Antoine Fuqua"
+  },
+  {
+    "id": 160,
+    "cast": [
+      "Madeleine Koehler",
+      "Marcel Koehler",
+      "Marguerite Lumière",
+      "Jeanne-Joséphine Lumière",
+      "Rose Lumière"
+    ],
+    "director": "Louis Lumière"
+  },
+  {
+    "id": 31225,
+    "cast": [
+      "Pepper LaBeija",
+      "Octavia St. Laurent",
+      "Venus Xtravaganza",
+      "Dorian Corey",
+      "Willi Ninja"
+    ],
+    "director": "Jennie Livingston"
+  },
+  {
+    "id": 11194,
+    "cast": [
+      "Brendan Mackey",
+      "Nicholas Aaron",
+      "Ollie Ryall",
+      "Joe Simpson",
+      "Richard Hawking"
+    ],
+    "director": "Kevin Macdonald"
+  },
+  {
+    "id": 691179,
+    "cast": [
+      "Jennifer Aniston",
+      "Courteney Cox",
+      "Lisa Kudrow",
+      "Matt LeBlanc",
+      "Matthew Perry"
+    ],
+    "director": "Ben Winston"
+  },
+  {
+    "id": 12232,
+    "cast": [
+      "Conrad Veidt",
+      "Sabu",
+      "June Duprez",
+      "John Justin",
+      "Rex Ingram"
+    ],
+    "director": "Tim Whelan"
+  },
+  {
+    "id": 675,
+    "cast": [
+      "Daniel Radcliffe",
+      "Rupert Grint",
+      "Emma Watson",
+      "Imelda Staunton",
+      "Helena Bonham Carter"
+    ],
+    "director": "David Yates"
+  },
+  {
+    "id": 31217,
+    "cast": [
+      "Tatsuya Nakadai",
+      "Michiyo Aratama",
+      "Chikage Awashima",
+      "Ineko Arima",
+      "So Yamamura"
+    ],
+    "director": "Masaki Kobayashi"
+  },
+  {
+    "id": 2024,
+    "cast": [
+      "Mel Gibson",
+      "Heath Ledger",
+      "Joely Richardson",
+      "Jason Isaacs",
+      "Chris Cooper"
+    ],
+    "director": "Roland Emmerich"
+  },
+  {
+    "id": 794,
+    "cast": [
+      "Gregory Peck",
+      "Lee Remick",
+      "David Warner",
+      "Billie Whitelaw",
+      "Harvey Stephens"
+    ],
+    "director": "Richard Donner"
+  },
+  {
+    "id": 9426,
+    "cast": [
+      "Jeff Goldblum",
+      "Geena Davis",
+      "John Getz",
+      "Joy Boushel",
+      "Leslie Carlson"
+    ],
+    "director": "David Cronenberg"
+  },
+  {
+    "id": 3111,
+    "cast": [
+      "Judy Garland",
+      "James Mason",
+      "Jack Carson",
+      "Charles Bickford",
+      "Tommy Noonan"
+    ],
+    "director": "George Cukor"
+  },
+  {
+    "id": 9591,
+    "cast": [
+      "Tom Hanks",
+      "Tom Everett Scott",
+      "Liv Tyler",
+      "Johnathon Schaech",
+      "Steve Zahn"
+    ],
+    "director": "Tom Hanks"
+  },
+  {
+    "id": 8328,
+    "cast": [
+      "Briana Evigan",
+      "Robert Hoffman",
+      "Will Kemp",
+      "Cassie Ventura",
+      "Adam Sevani"
+    ],
+    "director": "Jon M. Chu"
+  },
+  {
+    "id": 424694,
+    "cast": [
+      "Rami Malek",
+      "Gwilym Lee",
+      "Ben Hardy",
+      "Joseph Mazzello",
+      "Lucy Boynton"
+    ],
+    "director": "Bryan Singer"
+  },
+  {
+    "id": 1685,
+    "cast": [
+      "James Franciscus",
+      "Kim Hunter",
+      "Maurice Evans",
+      "Charlton Heston",
+      "Linda Harrison"
+    ],
+    "director": "Ted Post"
+  },
+  {
+    "id": 63,
+    "cast": [
+      "Bruce Willis",
+      "Madeleine Stowe",
+      "Brad Pitt",
+      "Christopher Plummer",
+      "David Morse"
+    ],
+    "director": "Terry Gilliam"
+  },
+  {
+    "id": 5879,
+    "cast": [
+      "Eiko Matsuda",
+      "Tatsuya Fuji",
+      "Aoi Nakajima",
+      "Yasuko Matsui",
+      "Meika Seri"
+    ],
+    "director": "Nagisa Ōshima"
+  },
+  {
+    "id": 114,
+    "cast": [
+      "Julia Roberts",
+      "Richard Gere",
+      "Ralph Bellamy",
+      "Jason Alexander",
+      "Laura San Giacomo"
+    ],
+    "director": "Garry Marshall"
+  },
+  {
+    "id": 372058,
+    "cast": [
+      "Ryunosuke Kamiki",
+      "Mone Kamishiraishi",
+      "Ryo Narita",
+      "Aoi Yuuki",
+      "Nobunaga Shimazaki"
+    ],
+    "director": "Makoto Shinkai"
+  },
+  {
+    "id": 914,
+    "cast": [
+      "Charlie Chaplin",
+      "Paulette Goddard",
+      "Jack Oakie",
+      "Reginald Gardiner",
+      "Henry Daniell"
+    ],
+    "director": "Charlie Chaplin"
+  },
+  {
+    "id": 9394,
+    "cast": [
+      "Terence Hill",
+      "Bud Spencer",
+      "Steffen Zacharias",
+      "Dan Sturkie",
+      "Gisela Hahn"
+    ],
+    "director": "Enzo Barboni"
+  },
+  {
+    "id": 11259,
+    "cast": [
+      "Tom Cruise",
+      "Nicole Kidman",
+      "Thomas Gibson",
+      "Robert Prosky",
+      "Barbara Babcock"
+    ],
+    "director": "Ron Howard"
+  },
+  {
+    "id": 57201,
+    "cast": [
+      "Johnny Depp",
+      "Armie Hammer",
+      "Tom Wilkinson",
+      "William Fichtner",
+      "Helena Bonham Carter"
+    ],
+    "director": "Gore Verbinski"
+  },
+  {
+    "id": 681,
+    "cast": [
+      "Sean Connery",
+      "Jill St. John",
+      "Charles Gray",
+      "Lana Wood",
+      "Jimmy Dean"
+    ],
+    "director": "Guy Hamilton"
+  },
+  {
+    "id": 562,
+    "cast": [
+      "Bruce Willis",
+      "Alan Rickman",
+      "Alexander Godunov",
+      "Bonnie Bedelia",
+      "Reginald VelJohnson"
+    ],
+    "director": "John McTiernan"
+  },
+  {
+    "id": 1228710,
+    "cast": [
+      "Pedro Pascal",
+      "Jeremy Allen White",
+      "Sigourney Weaver",
+      "Brendan Wayne",
+      "Lateef Crowder"
+    ],
+    "director": "Jon Favreau"
+  },
+  {
+    "id": 11319,
+    "cast": [
+      "Bob Newhart",
+      "Eva Gabor",
+      "Geraldine Page",
+      "Joe Flynn",
+      "Jeanette Nolan"
+    ],
+    "director": "Wolfgang Reitherman"
+  },
+  {
+    "id": 81,
+    "cast": [
+      "Sumi Shimamoto",
+      "Ichiro Nagai",
+      "Gorō Naya",
+      "Yoji Matsuda",
+      "Yoshiko Sakakibara"
+    ],
+    "director": "Hayao Miyazaki"
+  },
+  {
+    "id": 808,
+    "cast": [
+      "Mike Myers",
+      "Eddie Murphy",
+      "Cameron Diaz",
+      "John Lithgow",
+      "Vincent Cassel"
+    ],
+    "director": "Andrew Adamson"
+  },
+  {
+    "id": 832,
+    "cast": [
+      "Peter Lorre",
+      "Ellen Widmann",
+      "Inge Landgut",
+      "Otto Wernicke",
+      "Theodor Loos"
+    ],
+    "director": "Fritz Lang"
+  },
+  {
+    "id": 774,
+    "cast": [],
+    "director": "Louis Lumière"
+  },
+  {
+    "id": 11779,
+    "cast": [
+      "Compay Segundo",
+      "Eliades Ochoa",
+      "Ry Cooder",
+      "Joachim Cooder",
+      "Ibrahim Ferrer"
+    ],
+    "director": "Wim Wenders"
+  },
+  {
+    "id": 265297,
+    "cast": [
+      "Sebastião Salgado",
+      "Wim Wenders",
+      "Juliano Ribeiro Salgado",
+      "Hugo Barbier",
+      "Lélia Wanick Salgado"
+    ],
+    "director": "Juliano Ribeiro Salgado"
+  },
+  {
+    "id": 664280,
+    "cast": [
+      "David Attenborough",
+      "Max Hughes"
+    ],
+    "director": "Keith Scholey"
+  },
+  {
+    "id": 1284465,
+    "cast": [
+      "Hugh Jackman",
+      "Jodie Comer",
+      "Bill Skarsgård",
+      "Murray Bartlett",
+      "Noah Jupe"
+    ],
+    "director": "Michael Sarnoski"
+  },
+  {
+    "id": 9806,
+    "cast": [
+      "Craig T. Nelson",
+      "Holly Hunter",
+      "Sarah Vowell",
+      "Spencer Fox",
+      "Jason Lee"
+    ],
+    "director": "Brad Bird"
+  },
+  {
+    "id": 2493,
+    "cast": [
+      "Cary Elwes",
+      "Robin Wright",
+      "Mandy Patinkin",
+      "Chris Sarandon",
+      "Christopher Guest"
+    ],
+    "director": "Rob Reiner"
+  },
+  {
+    "id": 8095,
+    "cast": [
+      "Elizabeth Taylor",
+      "Richard Burton",
+      "Rex Harrison",
+      "Pamela Brown",
+      "George Cole"
+    ],
+    "director": "Joseph L. Mankiewicz"
+  },
+  {
+    "id": 568,
+    "cast": [
+      "Tom Hanks",
+      "Bill Paxton",
+      "Kevin Bacon",
+      "Gary Sinise",
+      "Ed Harris"
+    ],
+    "director": "Ron Howard"
+  },
+  {
+    "id": 76203,
+    "cast": [
+      "Chiwetel Ejiofor",
+      "Michael Fassbender",
+      "Lupita Nyong'o",
+      "Benedict Cumberbatch",
+      "Paul Dano"
+    ],
+    "director": "Steve McQueen"
+  },
+  {
+    "id": 381284,
+    "cast": [
+      "Taraji P. Henson",
+      "Octavia Spencer",
+      "Janelle Monáe",
+      "Kevin Costner",
+      "Kirsten Dunst"
+    ],
+    "director": "Theodore Melfi"
+  },
+  {
+    "id": 11906,
+    "cast": [
+      "Jessica Harper",
+      "Stefania Casini",
+      "Flavio Bucci",
+      "Miguel Bosé",
+      "Barbara Magnolfi"
+    ],
+    "director": "Dario Argento"
+  },
+  {
+    "id": 44214,
+    "cast": [
+      "Natalie Portman",
+      "Mila Kunis",
+      "Vincent Cassel",
+      "Barbara Hershey",
+      "Winona Ryder"
+    ],
+    "director": "Darren Aronofsky"
+  },
+  {
+    "id": 10654,
+    "cast": [
+      "John Savage",
+      "Treat Williams",
+      "Beverly D'Angelo",
+      "Annie Golden",
+      "Dorsey Wright"
+    ],
+    "director": "Miloš Forman"
+  },
+  {
+    "id": 8872,
+    "cast": [
+      "Mike Myers",
+      "Dana Carvey",
+      "Rob Lowe",
+      "Tia Carrere",
+      "Lara Flynn Boyle"
+    ],
+    "director": "Penelope Spheeris"
+  },
+  {
+    "id": 615667,
+    "cast": [
+      "Viola Davis",
+      "Chadwick Boseman",
+      "Colman Domingo",
+      "Glynn Turman",
+      "Michael Potts"
+    ],
+    "director": "George C. Wolfe"
+  },
+  {
+    "id": 12101,
+    "cast": [
+      "Charlton Heston",
+      "Leigh Taylor-Young",
+      "Chuck Connors",
+      "Joseph Cotten",
+      "Brock Peters"
+    ],
+    "director": "Richard Fleischer"
+  },
+  {
+    "id": 13448,
+    "cast": [
+      "Tom Hanks",
+      "Ewan McGregor",
+      "Ayelet Zurer",
+      "Stellan Skarsgård",
+      "Pierfrancesco Favino"
+    ],
+    "director": "Ron Howard"
+  },
+  {
+    "id": 289,
+    "cast": [
+      "Humphrey Bogart",
+      "Ingrid Bergman",
+      "Paul Henreid",
+      "Claude Rains",
+      "Conrad Veidt"
+    ],
+    "director": "Michael Curtiz"
+  },
+  {
+    "id": 36685,
+    "cast": [
+      "Tim Curry",
+      "Susan Sarandon",
+      "Barry Bostwick",
+      "Richard O'Brien",
+      "Patricia Quinn"
+    ],
+    "director": "Jim Sharman"
+  },
+  {
+    "id": 679,
+    "cast": [
+      "Sigourney Weaver",
+      "Carrie Henn",
+      "Michael Biehn",
+      "Paul Reiser",
+      "Lance Henriksen"
+    ],
+    "director": "James Cameron"
+  },
+  {
+    "id": 1726,
+    "cast": [
+      "Robert Downey Jr.",
+      "Terrence Howard",
+      "Jeff Bridges",
+      "Gwyneth Paltrow",
+      "Leslie Bibb"
+    ],
+    "director": "Jon Favreau"
+  },
+  {
+    "id": 1386315,
+    "cast": [
+      "Gal Gadot",
+      "Damian Lewis",
+      "Rory Wilmot",
+      "Alfred Enoch",
+      "Phoenix Di Sebastiani"
+    ],
+    "director": "Kevin Macdonald"
+  },
+  {
+    "id": 8963,
+    "cast": [
+      "Denzel Washington",
+      "Gene Hackman",
+      "Matt Craven",
+      "George Dzundza",
+      "Viggo Mortensen"
+    ],
+    "director": "Tony Scott"
+  },
+  {
+    "id": 616,
+    "cast": [
+      "Tom Cruise",
+      "Ken Watanabe",
+      "Timothy Spall",
+      "Tony Goldwyn",
+      "Hiroyuki Sanada"
+    ],
+    "director": "Edward Zwick"
+  },
+  {
+    "id": 929590,
+    "cast": [
+      "Kirsten Dunst",
+      "Wagner Moura",
+      "Cailee Spaeny",
+      "Stephen McKinley Henderson",
+      "Nelson Lee"
+    ],
+    "director": "Alex Garland"
+  },
+  {
+    "id": 11901,
+    "cast": [
+      "Clint Eastwood",
+      "Verna Bloom",
+      "Marianna Hill",
+      "Mitchell Ryan",
+      "Jack Ging"
+    ],
+    "director": "Clint Eastwood"
+  },
+  {
+    "id": 11969,
+    "cast": [
+      "Kurt Russell",
+      "Val Kilmer",
+      "Michael Biehn",
+      "Powers Boothe",
+      "Robert John Burke"
+    ],
+    "director": "George P. Cosmatos"
+  },
+  {
+    "id": 691,
+    "cast": [
+      "Roger Moore",
+      "Barbara Bach",
+      "Curd Jürgens",
+      "Richard Kiel",
+      "Caroline Munro"
+    ],
+    "director": "Lewis Gilbert"
+  },
+  {
+    "id": 76341,
+    "cast": [
+      "Tom Hardy",
+      "Charlize Theron",
+      "Nicholas Hoult",
+      "Hugh Keays-Byrne",
+      "Josh Helman"
+    ],
+    "director": "George Miller"
+  },
+  {
+    "id": 10674,
+    "cast": [
+      "Ming-Na Wen",
+      "Eddie Murphy",
+      "BD Wong",
+      "Miguel Ferrer",
+      "Harvey Fierstein"
+    ],
+    "director": "Tony Bancroft"
+  },
+  {
+    "id": 569094,
+    "cast": [
+      "Shameik Moore",
+      "Hailee Steinfeld",
+      "Brian Tyree Henry",
+      "Luna Lauren Vélez",
+      "Jake Johnson"
+    ],
+    "director": "Kemp Powers"
+  },
+  {
+    "id": 164,
+    "cast": [
+      "Audrey Hepburn",
+      "George Peppard",
+      "Patricia Neal",
+      "Buddy Ebsen",
+      "Martin Balsam"
+    ],
+    "director": "Blake Edwards"
+  },
+  {
+    "id": 10193,
+    "cast": [
+      "Tom Hanks",
+      "Tim Allen",
+      "Joan Cusack",
+      "Don Rickles",
+      "Wallace Shawn"
+    ],
+    "director": "Lee Unkrich"
+  },
+  {
+    "id": 1022789,
+    "cast": [
+      "Amy Poehler",
+      "Maya Hawke",
+      "Kensington Tallman",
+      "Liza Lapira",
+      "Tony Hale"
+    ],
+    "director": "Kelsey Mann"
+  },
+  {
+    "id": 654,
+    "cast": [
+      "Marlon Brando",
+      "Eva Marie Saint",
+      "Karl Malden",
+      "Lee J. Cobb",
+      "Rod Steiger"
+    ],
+    "director": "Elia Kazan"
+  },
+  {
+    "id": 272,
+    "cast": [
+      "Christian Bale",
+      "Michael Caine",
+      "Liam Neeson",
+      "Katie Holmes",
+      "Gary Oldman"
+    ],
+    "director": "Christopher Nolan"
+  },
+  {
+    "id": 1779,
+    "cast": [
+      "Michael Moore",
+      "Rhonda Britton",
+      "Fred Ross",
+      "Roger B. Smith",
+      "Bob Eubanks"
+    ],
+    "director": "Michael Moore"
+  },
+  {
+    "id": 501,
+    "cast": [
+      "Timothy Treadwell",
+      "Werner Herzog",
+      "Warren Queeney",
+      "Willy Fulton",
+      "Sam Egli"
+    ],
+    "director": "Werner Herzog"
+  },
+  {
+    "id": 220,
+    "cast": [
+      "James Dean",
+      "Julie Harris",
+      "Raymond Massey",
+      "Richard Davalos",
+      "Jo Van Fleet"
+    ],
+    "director": "Elia Kazan"
+  },
+  {
+    "id": 361743,
+    "cast": [
+      "Tom Cruise",
+      "Miles Teller",
+      "Jennifer Connelly",
+      "Bashir Salahuddin",
+      "Jon Hamm"
+    ],
+    "director": "Joseph Kosinski"
+  },
+  {
+    "id": 433,
+    "cast": [
+      "Julie Andrews",
+      "Dick Van Dyke",
+      "David Tomlinson",
+      "Glynis Johns",
+      "Hermione Baddeley"
+    ],
+    "director": "Robert Stevenson"
+  },
+  {
+    "id": 874,
+    "cast": [
+      "Paul Scofield",
+      "Wendy Hiller",
+      "Leo McKern",
+      "Robert Shaw",
+      "Orson Welles"
+    ],
+    "director": "Fred Zinnemann"
+  },
+  {
+    "id": 10110,
+    "cast": [
+      "Christian Bale",
+      "John Malkovich",
+      "Miranda Richardson",
+      "Nigel Havers",
+      "Joe Pantoliano"
+    ],
+    "director": "Steven Spielberg"
+  },
+  {
+    "id": 9477,
+    "cast": [
+      "Clive Owen",
+      "Ioan Gruffudd",
+      "Keira Knightley",
+      "Mads Mikkelsen",
+      "Joel Edgerton"
+    ],
+    "director": "Antoine Fuqua"
+  },
+  {
+    "id": 359724,
+    "cast": [
+      "Matt Damon",
+      "Christian Bale",
+      "Jon Bernthal",
+      "Caitríona Balfe",
+      "Josh Lucas"
+    ],
+    "director": "James Mangold"
+  },
+  {
+    "id": 16307,
+    "cast": [
+      "Edward Woodward",
+      "Christopher Lee",
+      "Britt Ekland",
+      "Diane Cilento",
+      "Ingrid Pitt"
+    ],
+    "director": "Robin Hardy"
+  },
+  {
+    "id": 10585,
+    "cast": [
+      "Alex Vincent",
+      "Catherine Hicks",
+      "Brad Dourif",
+      "Chris Sarandon",
+      "Dinah Manoff"
+    ],
+    "director": "Tom Holland"
+  },
+  {
+    "id": 12637,
+    "cast": [
+      "Liza Minnelli",
+      "Robert De Niro",
+      "Lionel Stander",
+      "Barry Primus",
+      "Mary Kay Place"
+    ],
+    "director": "Martin Scorsese"
+  },
+  {
+    "id": 10537,
+    "cast": [
+      "Val Kilmer",
+      "Meg Ryan",
+      "Kyle MacLachlan",
+      "Frank Whaley",
+      "Kevin Dillon"
+    ],
+    "director": "Oliver Stone"
+  },
+  {
+    "id": 5528,
+    "cast": [
+      "Gérard Jugnot",
+      "François Berléand",
+      "Kad Merad",
+      "Jean-Paul Bonnaire",
+      "Marie Bunel"
+    ],
+    "director": "Christophe Barratier"
+  },
+  {
+    "id": 891,
+    "cast": [
+      "Dustin Hoffman",
+      "Robert Redford",
+      "Jack Warden",
+      "Martin Balsam",
+      "Hal Holbrook"
+    ],
+    "director": "Alan J. Pakula"
+  },
+  {
+    "id": 744,
+    "cast": [
+      "Tom Cruise",
+      "Kelly McGillis",
+      "Val Kilmer",
+      "Anthony Edwards",
+      "Tom Skerritt"
+    ],
+    "director": "Tony Scott"
+  },
+  {
+    "id": 41630,
+    "cast": [
+      "Natalie Portman",
+      "Ashton Kutcher",
+      "Kevin Kline",
+      "Cary Elwes",
+      "Greta Gerwig"
+    ],
+    "director": "Ivan Reitman"
+  },
+  {
+    "id": 1072790,
+    "cast": [
+      "Sydney Sweeney",
+      "Glen Powell",
+      "Mia Artemis",
+      "Nat Buchanan",
+      "GaTa"
+    ],
+    "director": "Will Gluck"
+  },
+  {
+    "id": 985,
+    "cast": [
+      "Jack Nance",
+      "Charlotte Stewart",
+      "Allen Joseph",
+      "Jeanne Bates",
+      "Judith Roberts"
+    ],
+    "director": "David Lynch"
+  },
+  {
+    "id": 3110,
+    "cast": [
+      "Alan Ladd",
+      "Jean Arthur",
+      "Van Heflin",
+      "Brandon De Wilde",
+      "Jack Palance"
+    ],
+    "director": "George Stevens"
+  },
+  {
+    "id": 364,
+    "cast": [
+      "Michael Keaton",
+      "Danny DeVito",
+      "Michelle Pfeiffer",
+      "Christopher Walken",
+      "Michael Gough"
+    ],
+    "director": "Tim Burton"
+  },
+  {
+    "id": 39254,
+    "cast": [
+      "Hugh Jackman",
+      "Dakota Goyo",
+      "Evangeline Lilly",
+      "Kevin Durand",
+      "Anthony Mackie"
+    ],
+    "director": "Shawn Levy"
+  },
+  {
+    "id": 11360,
+    "cast": [
+      "Edward Brophy",
+      "Margaret Wright",
+      "Verna Felton",
+      "Sarah Selby",
+      "Noreen Gammill"
+    ],
+    "director": "Ben Sharpsteen"
+  },
+  {
+    "id": 9837,
+    "cast": [
+      "Val Kilmer",
+      "Ralph Fiennes",
+      "Michelle Pfeiffer",
+      "Sandra Bullock",
+      "Jeff Goldblum"
+    ],
+    "director": "Brenda Chapman"
+  },
+  {
+    "id": 177572,
+    "cast": [
+      "Scott Adsit",
+      "Ryan Potter",
+      "Daniel Henney",
+      "T.J. Miller",
+      "Jamie Chung"
+    ],
+    "director": "Chris Williams"
+  },
+  {
+    "id": 269,
+    "cast": [
+      "Jean-Paul Belmondo",
+      "Jean Seberg",
+      "Daniel Boulanger",
+      "Henri-Jacques Huet",
+      "Roger Hanin"
+    ],
+    "director": "Jean-Luc Godard"
+  },
+  {
+    "id": 500,
+    "cast": [
+      "Harvey Keitel",
+      "Tim Roth",
+      "Michael Madsen",
+      "Chris Penn",
+      "Steve Buscemi"
+    ],
+    "director": "Quentin Tarantino"
+  },
+  {
+    "id": 123678,
+    "cast": [
+      "Anwar Congo",
+      "Herman Koto",
+      "Syamsul Arifin",
+      "Ibrahim Sinik",
+      "Yapto Soerjosoemarno"
+    ],
+    "director": "Joshua Oppenheimer"
+  },
+  {
+    "id": 1400782,
+    "cast": [
+      "Susan Lorincz",
+      "Ajike Owens",
+      "Pamela Dias"
+    ],
+    "director": "Geeta Gandbhir"
+  },
+  {
+    "id": 1007757,
+    "cast": [
+      "Michael B. Jordan",
+      "Juno Temple",
+      "Tracy Morgan",
+      "Cedric the Entertainer",
+      "Justina Machado"
+    ],
+    "director": "Nathan Greno"
+  },
+  {
+    "id": 762,
+    "cast": [
+      "Graham Chapman",
+      "John Cleese",
+      "Eric Idle",
+      "Terry Gilliam",
+      "Terry Jones"
+    ],
+    "director": "Terry Jones"
+  },
+  {
+    "id": 674,
+    "cast": [
+      "Daniel Radcliffe",
+      "Rupert Grint",
+      "Emma Watson",
+      "Brendan Gleeson",
+      "Michael Gambon"
+    ],
+    "director": "Mike Newell"
+  },
+  {
+    "id": 31767,
+    "cast": [
+      "Vanessa Redgrave",
+      "Oliver Reed",
+      "Dudley Sutton",
+      "Max Adrian",
+      "Gemma Jones"
+    ],
+    "director": "Ken Russell"
+  },
+  {
+    "id": 1316092,
+    "cast": [
+      "Margot Robbie",
+      "Jacob Elordi",
+      "Hong Chau",
+      "Shazad Latif",
+      "Alison Oliver"
+    ],
+    "director": "Emerald Fennell"
+  },
+  {
+    "id": 764,
+    "cast": [
+      "Bruce Campbell",
+      "Ellen Sandweiss",
+      "Richard DeManincor",
+      "Betsy Baker",
+      "Theresa Tilly"
+    ],
+    "director": "Sam Raimi"
+  },
+  {
+    "id": 12105,
+    "cast": [
+      "Paul Angelis",
+      "John Clive",
+      "Dick Emery",
+      "Geoffrey Hughes",
+      "Lance Percival"
+    ],
+    "director": "George Dunning"
+  },
+  {
+    "id": 10437,
+    "cast": [
+      "Michael Caine",
+      "Dave Goelz",
+      "Steve Whitmire",
+      "Jerry Nelson",
+      "Frank Oz"
+    ],
+    "director": "Brian Henson"
+  },
+  {
+    "id": 332562,
+    "cast": [
+      "Lady Gaga",
+      "Bradley Cooper",
+      "Sam Elliott",
+      "Andrew Dice Clay",
+      "Rafi Gavron"
+    ],
+    "director": "Bradley Cooper"
+  },
+  {
+    "id": 4176,
+    "cast": [
+      "Albert Finney",
+      "Lauren Bacall",
+      "Martin Balsam",
+      "Ingrid Bergman",
+      "Sean Connery"
+    ],
+    "director": "Sidney Lumet"
+  },
+  {
+    "id": 2118,
+    "cast": [
+      "Kevin Spacey",
+      "Russell Crowe",
+      "Guy Pearce",
+      "James Cromwell",
+      "Kim Basinger"
+    ],
+    "director": "Curtis Hanson"
+  },
+  {
+    "id": 591,
+    "cast": [
+      "Tom Hanks",
+      "Audrey Tautou",
+      "Ian McKellen",
+      "Jean Reno",
+      "Paul Bettany"
+    ],
+    "director": "Ron Howard"
+  },
+  {
+    "id": 1304313,
+    "cast": [
+      "Jack Reynor",
+      "Laia Costa",
+      "May Calamawy",
+      "Natalie Grace",
+      "Shylo Molina"
+    ],
+    "director": "Lee Cronin"
+  },
+  {
+    "id": 792307,
+    "cast": [
+      "Emma Stone",
+      "Mark Ruffalo",
+      "Willem Dafoe",
+      "Ramy Youssef",
+      "Christopher Abbott"
+    ],
+    "director": "Yorgos Lanthimos"
+  },
+  {
+    "id": 607,
+    "cast": [
+      "Tommy Lee Jones",
+      "Will Smith",
+      "Linda Fiorentino",
+      "Vincent D'Onofrio",
+      "Rip Torn"
+    ],
+    "director": "Barry Sonnenfeld"
+  },
+  {
+    "id": 1654,
+    "cast": [
+      "Lee Marvin",
+      "Ernest Borgnine",
+      "Charles Bronson",
+      "Jim Brown",
+      "John Cassavetes"
+    ],
+    "director": "Robert Aldrich"
+  },
+  {
+    "id": 6415,
+    "cast": [
+      "George Clooney",
+      "Mark Wahlberg",
+      "Ice Cube",
+      "Spike Jonze",
+      "Cliff Curtis"
+    ],
+    "director": "David O. Russell"
+  },
+  {
+    "id": 301,
+    "cast": [
+      "John Wayne",
+      "Dean Martin",
+      "Ricky Nelson",
+      "Angie Dickinson",
+      "Walter Brennan"
+    ],
+    "director": "Howard Hawks"
+  },
+  {
+    "id": 12106,
+    "cast": [
+      "Sharon Stone",
+      "Gene Hackman",
+      "Russell Crowe",
+      "Leonardo DiCaprio",
+      "Tobin Bell"
+    ],
+    "director": "Sam Raimi"
+  },
+  {
+    "id": 5176,
+    "cast": [
+      "Russell Crowe",
+      "Christian Bale",
+      "Peter Fonda",
+      "Gretchen Mol",
+      "Ben Foster"
+    ],
+    "director": "James Mangold"
+  },
+  {
+    "id": 658,
+    "cast": [
+      "Sean Connery",
+      "Gert Fröbe",
+      "Honor Blackman",
+      "Harold Sakata",
+      "Shirley Eaton"
+    ],
+    "director": "Guy Hamilton"
+  },
+  {
+    "id": 949,
+    "cast": [
+      "Al Pacino",
+      "Robert De Niro",
+      "Val Kilmer",
+      "Jon Voight",
+      "Tom Sizemore"
+    ],
+    "director": "Michael Mann"
+  },
+  {
+    "id": 9078,
+    "cast": [
+      "Sebastian Cabot",
+      "Karl Swenson",
+      "Junius Matthews",
+      "Martha Wentworth",
+      "Norman Alden"
+    ],
+    "director": "Wolfgang Reitherman"
+  },
+  {
+    "id": 637,
+    "cast": [
+      "Roberto Benigni",
+      "Nicoletta Braschi",
+      "Giorgio Cantarini",
+      "Giustino Durano",
+      "Sergio Bini Bustric"
+    ],
+    "director": "Roberto Benigni"
+  },
+  {
+    "id": 629,
+    "cast": [
+      "Stephen Baldwin",
+      "Gabriel Byrne",
+      "Benicio del Toro",
+      "Kevin Pollak",
+      "Kevin Spacey"
+    ],
+    "director": "Bryan Singer"
+  },
+  {
+    "id": 14275,
+    "cast": [
+      "William Gates",
+      "Arthur Agee",
+      "Gene Pingatore",
+      "Steve James",
+      "Dick Vitale"
+    ],
+    "director": "Steve James"
+  },
+  {
+    "id": 1781,
+    "cast": [
+      "Al Gore",
+      "Billy West",
+      "Ronald Reagan",
+      "George W. Bush",
+      "George H. W. Bush"
+    ],
+    "director": "Davis Guggenheim"
+  },
+  {
+    "id": 1226841,
+    "cast": [
+      "Lionel Richie",
+      "Bruce Springsteen",
+      "Dionne Warwick",
+      "Kenny Loggins",
+      "Huey Lewis"
+    ],
+    "director": "Bao Nguyen"
+  },
+  {
+    "id": 10681,
+    "cast": [
+      "Ben Burtt",
+      "Elissa Knight",
+      "Jeff Garlin",
+      "Fred Willard",
+      "John Ratzenberger"
+    ],
+    "director": "Andrew Stanton"
+  },
+  {
+    "id": 1327819,
+    "cast": [
+      "Piper Curda",
+      "Bobby Moynihan",
+      "Jon Hamm",
+      "Kathy Najimy",
+      "Dave Franco"
+    ],
+    "director": "Daniel Chong"
+  },
+  {
+    "id": 821,
+    "cast": [
+      "Spencer Tracy",
+      "Richard Widmark",
+      "Maximilian Schell",
+      "Burt Lancaster",
+      "Marlene Dietrich"
+    ],
+    "director": "Stanley Kramer"
+  },
+  {
+    "id": 1317149,
+    "cast": [
+      "Robert Aramayo",
+      "Maxine Peake",
+      "Peter Mullan",
+      "Shirley Henderson",
+      "Scott Ellis Watson"
+    ],
+    "director": "Kirk Jones"
+  },
+  {
+    "id": 13368,
+    "cast": [
+      "Bing Crosby",
+      "Danny Kaye",
+      "Rosemary Clooney",
+      "Vera-Ellen",
+      "Dean Jagger"
+    ],
+    "director": "Michael Curtiz"
+  },
+  {
+    "id": 8873,
+    "cast": [
+      "Mike Myers",
+      "Dana Carvey",
+      "Christopher Walken",
+      "Tia Carrere",
+      "Chris Farley"
+    ],
+    "director": "Stephen Surjik"
+  },
+  {
+    "id": 69,
+    "cast": [
+      "Joaquin Phoenix",
+      "Reese Witherspoon",
+      "Ginnifer Goodwin",
+      "Robert Patrick",
+      "Dallas Roberts"
+    ],
+    "director": "James Mangold"
+  },
+  {
+    "id": 901362,
+    "cast": [
+      "Justin Timberlake",
+      "Anna Kendrick",
+      "Camila Cabello",
+      "Eric Andre",
+      "Amy Schumer"
+    ],
+    "director": "Walt Dohrn"
+  },
+  {
+    "id": 1594,
+    "cast": [
+      "Peter Sellers",
+      "Elke Sommer",
+      "George Sanders",
+      "Herbert Lom",
+      "Graham Stark"
+    ],
+    "director": "Blake Edwards"
+  },
+  {
+    "id": 2667,
+    "cast": [
+      "Heather Donahue",
+      "Joshua Leonard",
+      "Michael C. Williams",
+      "Bob Griffin",
+      "Jim King"
+    ],
+    "director": "Daniel Myrick"
+  },
+  {
+    "id": 419430,
+    "cast": [
+      "Daniel Kaluuya",
+      "Allison Williams",
+      "Catherine Keener",
+      "Bradley Whitford",
+      "Caleb Landry Jones"
+    ],
+    "director": "Jordan Peele"
+  },
+  {
+    "id": 297,
+    "cast": [
+      "Brad Pitt",
+      "Anthony Hopkins",
+      "Claire Forlani",
+      "Jake Weber",
+      "Marcia Gay Harden"
+    ],
+    "director": "Martin Brest"
+  },
+  {
+    "id": 11850,
+    "cast": [
+      "Donald Sutherland",
+      "Brooke Adams",
+      "Leonard Nimoy",
+      "Jeff Goldblum",
+      "Veronica Cartwright"
+    ],
+    "director": "Philip Kaufman"
+  },
+  {
+    "id": 602,
+    "cast": [
+      "Will Smith",
+      "Bill Pullman",
+      "Jeff Goldblum",
+      "Mary McDonnell",
+      "Judd Hirsch"
+    ],
+    "director": "Roland Emmerich"
+  },
+  {
+    "id": 693134,
+    "cast": [
+      "Timothée Chalamet",
+      "Zendaya",
+      "Rebecca Ferguson",
+      "Javier Bardem",
+      "Josh Brolin"
+    ],
+    "director": "Denis Villeneuve"
+  },
+  {
+    "id": 11829,
+    "cast": [
+      "Terence Hill",
+      "Bud Spencer",
+      "Harry Carey Jr.",
+      "Yanti Somer",
+      "Jessica Dublin"
+    ],
+    "director": "Enzo Barboni"
+  },
+  {
+    "id": 11967,
+    "cast": [
+      "Emilio Estevez",
+      "Kiefer Sutherland",
+      "Lou Diamond Phillips",
+      "Charlie Sheen",
+      "Dermot Mulroney"
+    ],
+    "director": "Christopher Cain"
+  },
+  {
+    "id": 8584,
+    "cast": [
+      "Jackie Chan",
+      "Owen Wilson",
+      "Lucy Liu",
+      "Xander Berkeley",
+      "Roger Yuan"
+    ],
+    "director": "Tom Dey"
+  },
+  {
+    "id": 1367,
+    "cast": [
+      "Sylvester Stallone",
+      "Talia Shire",
+      "Burt Young",
+      "Carl Weathers",
+      "Burgess Meredith"
+    ],
+    "director": "Sylvester Stallone"
+  },
+  {
+    "id": 11886,
+    "cast": [
+      "Brian Bedford",
+      "Phil Harris",
+      "Andy Devine",
+      "Monica Evans",
+      "Peter Ustinov"
+    ],
+    "director": "Wolfgang Reitherman"
+  },
+  {
+    "id": 37135,
+    "cast": [
+      "Tony Goldwyn",
+      "Minnie Driver",
+      "Glenn Close",
+      "Alex D. Linz",
+      "Rosie O'Donnell"
+    ],
+    "director": "Chris Buck"
+  },
+  {
+    "id": 324857,
+    "cast": [
+      "Shameik Moore",
+      "Jake Johnson",
+      "Hailee Steinfeld",
+      "Mahershala Ali",
+      "Brian Tyree Henry"
+    ],
+    "director": "Bob Persichetti"
+  },
+  {
+    "id": 284,
+    "cast": [
+      "Jack Lemmon",
+      "Shirley MacLaine",
+      "Fred MacMurray",
+      "Ray Walston",
+      "Jack Kruschen"
+    ],
+    "director": "Billy Wilder"
+  },
+  {
+    "id": 10625,
+    "cast": [
+      "Lindsay Lohan",
+      "Rachel McAdams",
+      "Lizzy Caplan",
+      "Lacey Chabert",
+      "Amanda Seyfried"
+    ],
+    "director": "Mark Waters"
+  },
+  {
+    "id": 903,
+    "cast": [
+      "Paul Newman",
+      "George Kennedy",
+      "Luke Askew",
+      "Morgan Woodward",
+      "Harry Dean Stanton"
+    ],
+    "director": "Stuart Rosenberg"
+  },
+  {
+    "id": 106646,
+    "cast": [
+      "Leonardo DiCaprio",
+      "Jonah Hill",
+      "Margot Robbie",
+      "Matthew McConaughey",
+      "Kyle Chandler"
+    ],
+    "director": "Martin Scorsese"
+  },
+  {
+    "id": 207,
+    "cast": [
+      "Robin Williams",
+      "Robert Sean Leonard",
+      "Ethan Hawke",
+      "Josh Charles",
+      "Gale Hansen"
+    ],
+    "director": "Peter Weir"
+  },
+  {
+    "id": 653,
+    "cast": [
+      "Max Schreck",
+      "Gustav von Wangenheim",
+      "Greta Schröder",
+      "Georg H. Schnell",
+      "Ruth Landshoff"
+    ],
+    "director": "F. W. Murnau"
+  },
+  {
+    "id": 659,
+    "cast": [
+      "Mario Adorf",
+      "Angela Winkler",
+      "David Bennent",
+      "Katharina Thalbach",
+      "Daniel Olbrychski"
+    ],
+    "director": "Volker Schlöndorff"
+  },
+  {
+    "id": 853,
+    "cast": [
+      "Jude Law",
+      "Joseph Fiennes",
+      "Rachel Weisz",
+      "Ed Harris",
+      "Bob Hoskins"
+    ],
+    "director": "Jean-Jacques Annaud"
+  },
+  {
+    "id": 4488,
+    "cast": [
+      "Adrienne King",
+      "Kevin Bacon",
+      "Jeannine Taylor",
+      "Harry Crosby",
+      "Laurie Bartram"
+    ],
+    "director": "Sean S. Cunningham"
+  },
+  {
+    "id": 1100988,
+    "cast": [
+      "Aaron Taylor-Johnson",
+      "Alfie Williams",
+      "Ralph Fiennes",
+      "Jodie Comer",
+      "Jack O'Connell"
+    ],
+    "director": "Danny Boyle"
+  },
+  {
+    "id": 3121,
+    "cast": [
+      "David Arkin",
+      "Barbara Baxley",
+      "Ned Beatty",
+      "Karen Black",
+      "Ronee Blakley"
+    ],
+    "director": "Robert Altman"
+  },
+  {
+    "id": 11031,
+    "cast": [
+      "Christopher Guest",
+      "Michael McKean",
+      "Harry Shearer",
+      "Rob Reiner",
+      "June Chadwick"
+    ],
+    "director": "Rob Reiner"
+  },
+  {
+    "id": 10060,
+    "cast": [
+      "50 Cent",
+      "Joy Bryant",
+      "Adewale Akinnuoye-Agbaje",
+      "Omar Benson Miller",
+      "Terrence Howard"
+    ],
+    "director": "Jim Sheridan"
+  },
+  {
+    "id": 661539,
+    "cast": [
+      "Timothée Chalamet",
+      "Edward Norton",
+      "Elle Fanning",
+      "Monica Barbaro",
+      "Scoot McNairy"
+    ],
+    "director": "James Mangold"
+  },
+  {
+    "id": 223,
+    "cast": [
+      "Laurence Olivier",
+      "Joan Fontaine",
+      "George Sanders",
+      "Judith Anderson",
+      "Gladys Cooper"
+    ],
+    "director": "Alfred Hitchcock"
+  },
+  {
+    "id": 10398,
+    "cast": [
+      "Tommy Lee Jones",
+      "Ashley Judd",
+      "Benjamin Weir",
+      "Jay Brazeau",
+      "Bruce Greenwood"
+    ],
+    "director": "Bruce Beresford"
+  },
+  {
+    "id": 2501,
+    "cast": [
+      "Matt Damon",
+      "Franka Potente",
+      "Chris Cooper",
+      "Clive Owen",
+      "Brian Cox"
+    ],
+    "director": "Doug Liman"
+  },
+  {
+    "id": 1301421,
+    "cast": [
+      "Hugh Jackman",
+      "Nicholas Braun",
+      "Nicholas Galitzine",
+      "Molly Gordon",
+      "Julia Louis-Dreyfus"
+    ],
+    "director": "Kyle Balda"
+  },
+  {
+    "id": 851,
+    "cast": [
+      "Celia Johnson",
+      "Trevor Howard",
+      "Stanley Holloway",
+      "Joyce Carey",
+      "Cyril Raymond"
+    ],
+    "director": "David Lean"
+  },
+  {
+    "id": 9769,
+    "cast": [
+      "Jeremy Irons",
+      "Dominique Swain",
+      "Melanie Griffith",
+      "Frank Langella",
+      "Suzanne Shepherd"
+    ],
+    "director": "Adrian Lyne"
+  },
+  {
+    "id": 1824,
+    "cast": [
+      "Adam Sandler",
+      "Drew Barrymore",
+      "Rob Schneider",
+      "Sean Astin",
+      "Lusia Strus"
+    ],
+    "director": "Peter Segal"
+  },
+  {
+    "id": 950396,
+    "cast": [
+      "Miles Teller",
+      "Anya Taylor-Joy",
+      "Sigourney Weaver",
+      "Ṣọpẹ́ Dìrísù",
+      "William Houston"
+    ],
+    "director": "Scott Derrickson"
+  }
+]
